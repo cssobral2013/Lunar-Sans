@@ -1,0 +1,36 @@
+{
+glyphname = four.inferior;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+ref = four.sinf;
+}
+);
+width = 420;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+ref = four.sinf;
+}
+);
+width = 384;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+ref = four.sinf;
+}
+);
+width = 366;
+}
+);
+unicode = 8324;
+}

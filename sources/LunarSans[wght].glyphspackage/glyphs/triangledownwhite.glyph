@@ -1,0 +1,72 @@
+{
+glyphname = triangledownwhite;
+layers = (
+{
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+closed = 1;
+nodes = (
+(289,3,l),
+(66,449,l),
+(511,449,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(289,150,l),
+(406,383,l),
+(173,383,l)
+);
+}
+);
+width = 578;
+},
+{
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(260,32,l),
+(70,413,l),
+(450,413,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(260,130,l),
+(380,369,l),
+(140,369,l)
+);
+}
+);
+width = 520;
+},
+{
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(245,47,l),
+(72,394,l),
+(418,394,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(245,120,l),
+(367,361,l),
+(122,361,l)
+);
+}
+);
+width = 490;
+}
+);
+unicode = 9661;
+}

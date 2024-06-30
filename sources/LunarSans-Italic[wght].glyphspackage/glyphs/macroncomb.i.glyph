@@ -1,0 +1,112 @@
+{
+glyphname = macroncomb.i;
+layers = (
+{
+anchors = (
+{
+name = _m.fi;
+position = "{242, 515}";
+},
+{
+name = _m.fi_2;
+position = "{242, 515}";
+},
+{
+name = _m.fi_3;
+position = "{242, 515}";
+},
+{
+name = m.fi_3;
+position = "{272, 755}";
+}
+);
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(391,755,l),
+(404,740,l),
+(394,624,l),
+(137,624,l),
+(123,638,l),
+(133,755,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _m.fi;
+position = "{242, 515}";
+},
+{
+name = _m.fi_2;
+position = "{242, 515}";
+},
+{
+name = _m.fi_3;
+position = "{242, 515}";
+},
+{
+name = m.fi_3;
+position = "{272, 755}";
+}
+);
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+closed = 1;
+nodes = (
+(381,696,l),
+(388,689,l),
+(382,634,l),
+(145,634,l),
+(138,642,l),
+(143,696,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _m.fi;
+position = "{242, 508}";
+},
+{
+name = _m.fi_2;
+position = "{242, 508}";
+},
+{
+name = _m.fi_3;
+position = "{242, 508}";
+},
+{
+name = m.fi_3;
+position = "{269, 722}";
+}
+);
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+closed = 1;
+nodes = (
+(375,663,l),
+(378,660,l),
+(376,641,l),
+(150,641,l),
+(146,644,l),
+(149,663,l)
+);
+}
+);
+width = 0;
+}
+);
+leftKerningGroup = tilde2;
+rightKerningGroup = tilde;
+}

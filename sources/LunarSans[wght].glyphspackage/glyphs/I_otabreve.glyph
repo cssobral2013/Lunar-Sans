@@ -1,0 +1,53 @@
+{
+glyphname = Iotabreve;
+layers = (
+{
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+ref = Iota;
+},
+{
+alignment = -1;
+pos = (-32,191);
+ref = brevecomb.case;
+}
+);
+width = 357;
+},
+{
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+ref = Iota;
+},
+{
+alignment = -1;
+pos = (-63,199);
+ref = brevecomb.case;
+}
+);
+width = 296;
+},
+{
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+ref = Iota;
+},
+{
+alignment = -1;
+pos = (-82,202);
+ref = brevecomb.case;
+}
+);
+width = 262;
+}
+);
+leftKerningGroup = B2;
+rightKerningGroup = H;
+unicode = 8152;
+}

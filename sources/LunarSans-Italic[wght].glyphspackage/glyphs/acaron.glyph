@@ -1,0 +1,53 @@
+{
+glyphname = acaron;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (44,0);
+ref = caroncomb;
+}
+);
+width = 533;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (21,1);
+ref = caroncomb;
+}
+);
+width = 483;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (24,0);
+ref = caroncomb;
+}
+);
+width = 461;
+}
+);
+leftKerningGroup = a2;
+rightKerningGroup = a;
+unicode = 462;
+}

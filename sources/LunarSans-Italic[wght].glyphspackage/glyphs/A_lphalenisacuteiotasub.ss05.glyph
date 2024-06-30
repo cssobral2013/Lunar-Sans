@@ -1,0 +1,68 @@
+{
+glyphname = Alphalenisacuteiotasub.ss05;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+pos = (240,0);
+ref = Alpha;
+},
+{
+alignment = -1;
+pos = (-64,-100);
+ref = lenisacute.case;
+},
+{
+alignment = -1;
+pos = (925,0);
+ref = iotaadscript;
+}
+);
+width = 1232;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+pos = (190,0);
+ref = Alpha;
+},
+{
+alignment = -1;
+pos = (5,-52);
+ref = lenisacute.case;
+},
+{
+alignment = -1;
+pos = (794,0);
+ref = iotaadscript;
+}
+);
+width = 1058;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+pos = (130,0);
+ref = Alpha;
+},
+{
+alignment = -1;
+pos = (14,-25);
+ref = lenisacute.case;
+},
+{
+alignment = -1;
+pos = (702,0);
+ref = iotaadscript;
+}
+);
+width = 940;
+}
+);
+}

@@ -1,0 +1,67 @@
+{
+glyphname = Ocyr;
+layers = (
+{
+anchors = (
+{
+name = m.tilde;
+position = "{369, 707}";
+},
+{
+name = top;
+position = "{366, 795}";
+}
+);
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+pos = (9,0);
+ref = O;
+}
+);
+width = 731;
+},
+{
+anchors = (
+{
+name = m.tilde;
+position = "{363, 700}";
+},
+{
+name = top;
+position = "{368, 783}";
+}
+);
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+pos = (20,0);
+ref = O;
+}
+);
+width = 735;
+},
+{
+anchors = (
+{
+name = m.tilde;
+position = "{374, 696}";
+}
+);
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+pos = (32,0);
+ref = O;
+}
+);
+width = 748;
+}
+);
+leftKerningGroup = C2;
+rightKerningGroup = D;
+unicode = 1054;
+}

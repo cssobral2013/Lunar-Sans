@@ -1,0 +1,38 @@
+{
+glyphname = one.sinf;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+pos = (-16,-131);
+ref = one.dnom;
+}
+);
+width = 323;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+pos = (-16,-131);
+ref = one.dnom;
+}
+);
+width = 284;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+pos = (-16,-132);
+ref = one.dnom;
+}
+);
+width = 262;
+}
+);
+}

@@ -1,0 +1,54 @@
+{
+glyphname = Alphaiotasub.ss05;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+pos = (-37,0);
+ref = Alpha;
+},
+{
+alignment = -1;
+pos = (648,0);
+ref = iota;
+}
+);
+width = 929;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+ref = Alpha;
+},
+{
+alignment = -1;
+pos = (604,0);
+ref = iota;
+}
+);
+width = 843;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+pos = (61,0);
+ref = Alpha;
+},
+{
+alignment = -1;
+pos = (633,0);
+ref = iota;
+}
+);
+width = 846;
+}
+);
+leftKerningGroup = A2;
+rightKerningGroup = u;
+}

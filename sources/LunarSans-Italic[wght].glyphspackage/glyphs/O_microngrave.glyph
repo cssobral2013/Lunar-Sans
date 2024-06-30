@@ -1,0 +1,56 @@
+{
+glyphname = Omicrongrave;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+pos = (149,0);
+ref = Omicron;
+},
+{
+alignment = -1;
+pos = (-61,-93);
+ref = "grave-gr";
+}
+);
+width = 867;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+pos = (112,0);
+ref = Omicron;
+},
+{
+alignment = -1;
+pos = (-37,-50);
+ref = "grave-gr";
+}
+);
+width = 782;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+pos = (68,0);
+ref = Omicron;
+},
+{
+alignment = -1;
+pos = (-50,-26);
+ref = "grave-gr";
+}
+);
+width = 722;
+}
+);
+leftKerningGroup = C2;
+rightKerningGroup = D;
+unicode = 8184;
+}

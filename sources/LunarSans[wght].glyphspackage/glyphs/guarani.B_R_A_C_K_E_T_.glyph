@@ -1,0 +1,126 @@
+{
+glyphname = guarani.BRACKET;
+layers = (
+{
+anchors = (
+{
+name = m.tilde;
+position = "{290, 560}";
+},
+{
+name = b.uni0324_4;
+position = "{284, 0}";
+}
+);
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+closed = 1;
+nodes = (
+(349,90,l),
+(334,-153,l),
+(228,-153,l),
+(214,-138,l),
+(227,90,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(370,705,l),
+(387,690,l),
+(374,471,l),
+(253,471,l),
+(266,705,l)
+);
+},
+{
+alignment = -1;
+ref = g.sc;
+}
+);
+width = 568;
+},
+{
+anchors = (
+{
+name = m.tilde;
+position = "{287, 560}";
+},
+{
+name = b.uni0324_4;
+position = "{281, 0}";
+}
+);
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(298,37,l),
+(285,-142,l),
+(236,-142,l),
+(228,-133,l),
+(240,37,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(341,701,l),
+(350,692,l),
+(336,507,l),
+(277,507,l),
+(293,701,l)
+);
+},
+{
+alignment = -1;
+ref = g.sc;
+}
+);
+width = 568;
+},
+{
+anchors = (
+{
+name = m.tilde;
+position = "{288, 551}";
+},
+{
+name = b.uni0324_4;
+position = "{277, 0}";
+}
+);
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(264,8,l),
+(251,-135,l),
+(234,-135,l),
+(230,-131,l),
+(242,8,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(318,699,l),
+(323,693,l),
+(309,526,l),
+(286,526,l),
+(301,699,l)
+);
+},
+{
+alignment = -1;
+ref = g.sc;
+}
+);
+width = 568;
+}
+);
+tags = ("~539.43<wt");
+}

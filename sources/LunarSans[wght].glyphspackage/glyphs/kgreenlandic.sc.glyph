@@ -1,0 +1,66 @@
+{
+glyphname = kgreenlandic.sc;
+layers = (
+{
+anchors = (
+{
+name = m.tilde;
+position = "{289, 560}";
+},
+{
+name = b.uni0324_4;
+position = "{287, 0}";
+}
+);
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+ref = k.sc;
+}
+);
+width = 607;
+},
+{
+anchors = (
+{
+name = m.tilde;
+position = "{289, 560}";
+},
+{
+name = b.uni0324_4;
+position = "{287, 0}";
+}
+);
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+ref = k.sc;
+}
+);
+width = 538;
+},
+{
+anchors = (
+{
+name = m.tilde;
+position = "{268, 551}";
+},
+{
+name = b.uni0324_4;
+position = "{272, 0}";
+}
+);
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+ref = k.sc;
+}
+);
+width = 499;
+}
+);
+leftKerningGroup = B2;
+}

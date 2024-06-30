@@ -1,0 +1,69 @@
+{
+glyphname = Etalenistildeiotasub.ss05;
+layers = (
+{
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+pos = (275,0);
+ref = Eta;
+},
+{
+alignment = -1;
+pos = (2,-147);
+ref = lenistilde.case;
+},
+{
+alignment = -1;
+pos = (1052,0);
+ref = iotaadscript;
+}
+);
+width = 1358;
+},
+{
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+pos = (240,0);
+ref = Eta;
+},
+{
+alignment = -1;
+pos = (-8,-56);
+ref = lenistilde.case;
+},
+{
+alignment = -1;
+pos = (988,0);
+ref = iotaadscript;
+}
+);
+width = 1265;
+},
+{
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+pos = (207,0);
+ref = Eta;
+},
+{
+alignment = -1;
+pos = (-27,-4);
+ref = lenistilde.case;
+},
+{
+alignment = -1;
+pos = (939,0);
+ref = iotaadscript;
+}
+);
+width = 1198;
+}
+);
+rightKerningGroup = a;
+}

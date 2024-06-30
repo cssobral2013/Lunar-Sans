@@ -1,0 +1,53 @@
+{
+glyphname = Zhebrevecyr;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+ref = Zhecyr;
+},
+{
+alignment = -1;
+pos = (323,191);
+ref = brevecombcy.case;
+}
+);
+width = 1023;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+ref = Zhecyr;
+},
+{
+alignment = -1;
+pos = (278,199);
+ref = brevecombcy.case;
+}
+);
+width = 898;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+ref = Zhecyr;
+},
+{
+alignment = -1;
+pos = (251,202);
+ref = brevecombcy.case;
+}
+);
+width = 829;
+}
+);
+leftKerningGroup = X;
+rightKerningGroup = K;
+unicode = 1217;
+}

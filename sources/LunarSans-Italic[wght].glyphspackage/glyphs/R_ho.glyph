@@ -1,0 +1,56 @@
+{
+glyphname = Rho;
+layers = (
+{
+anchors = (
+{
+name = t.uni1FDF.case_6;
+position = "{-11, 707}";
+}
+);
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+ref = P;
+}
+);
+width = 649;
+},
+{
+anchors = (
+{
+name = t.uni1FDF.case_6;
+position = "{-11, 707}";
+}
+);
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+ref = P;
+}
+);
+width = 550;
+},
+{
+anchors = (
+{
+name = t.uni1FDF.case_6;
+position = "{15, 702}";
+}
+);
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+ref = P;
+}
+);
+width = 507;
+}
+);
+leftKerningGroup = B2;
+rightKerningGroup = P;
+unicode = 929;
+}

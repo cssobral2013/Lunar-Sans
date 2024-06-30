@@ -1,0 +1,80 @@
+{
+glyphname = descendercy.alt;
+layers = (
+{
+anchors = (
+{
+name = _b.uni0324_4;
+position = "{137, 0}";
+},
+{
+name = _b.uni0324;
+position = "{137, 0}";
+}
+);
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+closed = 1;
+nodes = (
+(66,-169,l),
+(38,111,l),
+(235,111,l),
+(209,-159,l)
+);
+}
+);
+width = 272;
+},
+{
+anchors = (
+{
+name = _b.uni0324_4;
+position = "{137, 0}";
+},
+{
+name = _b.uni0324;
+position = "{137, 0}";
+}
+);
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,-145,l),
+(80,45,l),
+(164,45,l),
+(155,-139,l)
+);
+}
+);
+width = 242;
+},
+{
+anchors = (
+{
+name = _b.uni0324_4;
+position = "{128, 0}";
+},
+{
+name = _b.uni0324;
+position = "{128, 0}";
+}
+);
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(103,-132,l),
+(103,7,l),
+(124,7,l),
+(124,-128,l)
+);
+}
+);
+width = 225;
+}
+);
+}

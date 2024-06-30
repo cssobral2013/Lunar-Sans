@@ -1,0 +1,84 @@
+{
+glyphname = breveinvertedcomb;
+layers = (
+{
+anchors = (
+{
+name = _m.tilde;
+position = "{212, 515}";
+},
+{
+name = _t.tilde;
+position = "{212, 515}";
+},
+{
+name = t.tilde;
+position = "{212, 822}";
+}
+);
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+angle = -180;
+pos = (424,1406);
+ref = brevecomb;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _m.tilde;
+position = "{212, 515}";
+},
+{
+name = _t.tilde;
+position = "{212, 515}";
+},
+{
+name = t.tilde;
+position = "{212, 822}";
+}
+);
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+angle = -180;
+pos = (425,1326);
+ref = brevecomb;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _m.tilde;
+position = "{212, 508}";
+},
+{
+name = _t.tilde;
+position = "{212, 508}";
+},
+{
+name = t.tilde;
+position = "{212, 778}";
+}
+);
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+angle = -180;
+pos = (426,1280);
+ref = brevecomb;
+}
+);
+width = 0;
+}
+);
+unicode = 785;
+}

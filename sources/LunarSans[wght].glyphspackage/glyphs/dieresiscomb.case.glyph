@@ -1,0 +1,77 @@
+{
+glyphname = dieresiscomb.case;
+layers = (
+{
+anchors = (
+{
+name = _m.tilde;
+position = "{213, 515}";
+},
+{
+name = _t.tilde;
+position = "{213, 515}";
+},
+{
+name = t.tilde;
+position = "{213, 783}";
+}
+);
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+ref = dieresiscomb;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _m.tilde;
+position = "{213, 515}";
+},
+{
+name = _t.tilde;
+position = "{213, 515}";
+},
+{
+name = t.tilde;
+position = "{213, 783}";
+}
+);
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+ref = dieresiscomb;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _m.tilde;
+position = "{213, 508}";
+},
+{
+name = _t.tilde;
+position = "{213, 508}";
+},
+{
+name = t.tilde;
+position = "{212, 739}";
+}
+);
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+ref = dieresiscomb;
+}
+);
+width = 0;
+}
+);
+}

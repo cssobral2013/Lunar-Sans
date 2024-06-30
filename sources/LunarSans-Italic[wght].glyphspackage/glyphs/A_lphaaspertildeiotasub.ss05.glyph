@@ -1,0 +1,68 @@
+{
+glyphname = Alphaaspertildeiotasub.ss05;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+pos = (132,0);
+ref = Alpha;
+},
+{
+alignment = -1;
+pos = (-50,-147);
+ref = aspertilde.case;
+},
+{
+alignment = -1;
+pos = (817,0);
+ref = iotaadscript;
+}
+);
+width = 1124;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+pos = (173,0);
+ref = Alpha;
+},
+{
+alignment = -1;
+pos = (33,-56);
+ref = aspertilde.case;
+},
+{
+alignment = -1;
+pos = (776,0);
+ref = iotaadscript;
+}
+);
+width = 1041;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+pos = (164,0);
+ref = Alpha;
+},
+{
+alignment = -1;
+pos = (48,-4);
+ref = aspertilde.case;
+},
+{
+alignment = -1;
+pos = (736,0);
+ref = iotaadscript;
+}
+);
+width = 974;
+}
+);
+}

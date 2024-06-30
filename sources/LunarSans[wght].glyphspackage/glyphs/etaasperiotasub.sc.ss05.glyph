@@ -1,0 +1,52 @@
+{
+glyphname = etaasperiotasub.sc.ss05;
+layers = (
+{
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+ref = etaiotasub.sc.ss05;
+},
+{
+alignment = -1;
+pos = (235,45);
+ref = asper;
+}
+);
+width = 1001;
+},
+{
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+ref = etaiotasub.sc.ss05;
+},
+{
+alignment = -1;
+pos = (222,44);
+ref = asper;
+}
+);
+width = 937;
+},
+{
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+ref = etaiotasub.sc.ss05;
+},
+{
+alignment = -1;
+pos = (213,43);
+ref = asper;
+}
+);
+width = 901;
+}
+);
+leftKerningGroup = B2;
+rightKerningGroup = H;
+}

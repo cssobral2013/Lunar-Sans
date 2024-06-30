@@ -1,0 +1,51 @@
+{
+glyphname = omegaiotasub.sc.ss05;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+ref = omega.sc;
+},
+{
+alignment = -1;
+pos = (650,0);
+ref = iotaadscript.sc;
+}
+);
+width = 931;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+ref = omega.sc;
+},
+{
+alignment = -1;
+pos = (643,0);
+ref = iotaadscript.sc;
+}
+);
+width = 881;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+ref = omega.sc;
+},
+{
+alignment = -1;
+pos = (639,0);
+ref = iotaadscript.sc;
+}
+);
+width = 852;
+}
+);
+leftKerningGroup = uni03A9;
+}

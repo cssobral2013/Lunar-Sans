@@ -1,0 +1,70 @@
+{
+glyphname = Omegalenisiotasub;
+layers = (
+{
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+pos = (86,0);
+ref = Omega;
+},
+{
+alignment = -1;
+pos = (-62,-93);
+ref = lenis.case;
+},
+{
+alignment = -1;
+pos = (337,0);
+ref = iotasubcomb;
+}
+);
+width = 839;
+},
+{
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+pos = (83,0);
+ref = Omega;
+},
+{
+alignment = -1;
+pos = (-37,-50);
+ref = lenis.case;
+},
+{
+alignment = -1;
+pos = (352,0);
+ref = iotasubcomb;
+}
+);
+width = 854;
+},
+{
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+pos = (84,0);
+ref = Omega;
+},
+{
+alignment = -1;
+pos = (-17,-26);
+ref = lenis.case;
+},
+{
+alignment = -1;
+pos = (364,0);
+ref = iotasubcomb;
+}
+);
+width = 869;
+}
+);
+leftKerningGroup = uni03A9;
+unicode = 8104;
+}

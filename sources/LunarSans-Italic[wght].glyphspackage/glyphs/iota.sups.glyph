@@ -1,0 +1,100 @@
+{
+glyphname = iota.sups;
+layers = (
+{
+anchors = (
+{
+name = m.fi;
+position = "{159, 708}";
+},
+{
+name = m.uni01EB_1;
+position = "{176, 354}";
+},
+{
+name = b.uni0324_5;
+position = "{116, 349}";
+}
+);
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(216,711,l),
+(180,437,l),
+(176,354,l),
+(58,346,l),
+(95,619,l),
+(98,703,l)
+);
+}
+);
+width = 207;
+},
+{
+anchors = (
+{
+name = m.fi;
+position = "{159, 708}";
+},
+{
+name = m.uni01EB_1;
+position = "{176, 354}";
+},
+{
+name = b.uni0324_5;
+position = "{116, 349}";
+}
+);
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+closed = 1;
+nodes = (
+(192,705,l),
+(157,450,l),
+(154,372,l),
+(74,366,l),
+(110,626,l),
+(114,700,l)
+);
+}
+);
+width = 195;
+},
+{
+anchors = (
+{
+name = m.fi;
+position = "{142, 702}";
+},
+{
+name = m.uni01EB_1;
+position = "{133, 361}";
+},
+{
+name = b.uni0324_5;
+position = "{99, 360}";
+}
+);
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+closed = 1;
+nodes = (
+(149,700,l),
+(116,454,l),
+(111,380,l),
+(84,377,l),
+(119,632,l),
+(122,697,l)
+);
+}
+);
+width = 161;
+}
+);
+leftKerningGroup = eta.sups2;
+rightKerningGroup = iota.sups;
+}

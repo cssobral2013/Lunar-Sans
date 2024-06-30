@@ -1,0 +1,52 @@
+{
+glyphname = ylongdieresiscyr.sc;
+layers = (
+{
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+ref = ylongcyr.sc;
+},
+{
+alignment = -1;
+pos = (213,45);
+ref = dieresiscomb;
+}
+);
+width = 851;
+},
+{
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+ref = ylongcyr.sc;
+},
+{
+alignment = -1;
+pos = (158,44);
+ref = dieresiscomb;
+}
+);
+width = 739;
+},
+{
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+ref = ylongcyr.sc;
+},
+{
+alignment = -1;
+pos = (127,43);
+ref = dieresiscomb;
+}
+);
+width = 676;
+}
+);
+leftKerningGroup = B2;
+rightKerningGroup = H;
+}

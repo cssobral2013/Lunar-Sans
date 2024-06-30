@@ -1,0 +1,52 @@
+{
+glyphname = iotaaspergrave;
+layers = (
+{
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (-62,0);
+ref = aspergrave;
+}
+);
+width = 307;
+},
+{
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (-40,0);
+ref = aspergrave;
+}
+);
+width = 276;
+},
+{
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (-28,0);
+ref = aspergrave;
+}
+);
+width = 259;
+}
+);
+rightKerningGroup = a;
+unicode = 7987;
+}

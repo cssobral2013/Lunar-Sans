@@ -1,0 +1,71 @@
+{
+glyphname = Etalenisiotasub;
+layers = (
+{
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+pos = (175,0);
+ref = Eta;
+},
+{
+alignment = -1;
+pos = (-24,-93);
+ref = lenis.case;
+},
+{
+alignment = -1;
+pos = (450,0);
+ref = iotasubcomb;
+}
+);
+width = 951;
+},
+{
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+pos = (126,0);
+ref = Eta;
+},
+{
+alignment = -1;
+pos = (-38,-50);
+ref = lenis.case;
+},
+{
+alignment = -1;
+pos = (387,0);
+ref = iotasubcomb;
+}
+);
+width = 874;
+},
+{
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+pos = (84,0);
+ref = Eta;
+},
+{
+alignment = -1;
+pos = (-60,-26);
+ref = lenis.case;
+},
+{
+alignment = -1;
+pos = (336,0);
+ref = iotasubcomb;
+}
+);
+width = 816;
+}
+);
+leftKerningGroup = B2;
+rightKerningGroup = H;
+unicode = 8088;
+}

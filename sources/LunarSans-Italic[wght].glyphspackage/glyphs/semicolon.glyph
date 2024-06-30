@@ -1,0 +1,54 @@
+{
+glyphname = semicolon;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = comma;
+},
+{
+alignment = -1;
+pos = (28,278);
+ref = period;
+}
+);
+width = 250;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+pos = (-2,0);
+ref = comma;
+},
+{
+alignment = -1;
+pos = (34,294);
+ref = period;
+}
+);
+width = 250;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+pos = (-1,0);
+ref = comma;
+},
+{
+alignment = -1;
+pos = (36,302);
+ref = period;
+}
+);
+width = 250;
+}
+);
+unicode = 59;
+}

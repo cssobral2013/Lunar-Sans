@@ -1,0 +1,54 @@
+{
+glyphname = Omegaasperiotasub.sc.ss05;
+layers = (
+{
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+pos = (79,0);
+ref = Omegaiotasub.sc.ss05;
+},
+{
+alignment = -1;
+pos = (-59,-93);
+ref = asper.case;
+}
+);
+width = 1162;
+},
+{
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+pos = (86,0);
+ref = Omegaiotasub.sc.ss05;
+},
+{
+alignment = -1;
+pos = (-29,-50);
+ref = asper.case;
+}
+);
+width = 1142;
+},
+{
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+pos = (94,0);
+ref = Omegaiotasub.sc.ss05;
+},
+{
+alignment = -1;
+pos = (-8,-26);
+ref = asper.case;
+}
+);
+width = 1138;
+}
+);
+rightKerningGroup = H;
+}

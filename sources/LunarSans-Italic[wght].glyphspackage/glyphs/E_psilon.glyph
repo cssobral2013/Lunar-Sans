@@ -1,0 +1,68 @@
+{
+glyphname = Epsilon;
+layers = (
+{
+anchors = (
+{
+name = m.fi;
+position = "{351, 707}";
+},
+{
+name = t.uni1FDF.case_6;
+position = "{-11, 707}";
+}
+);
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+ref = E;
+}
+);
+width = 591;
+},
+{
+anchors = (
+{
+name = m.fi;
+position = "{351, 707}";
+},
+{
+name = t.uni1FDF.case_6;
+position = "{-11, 707}";
+}
+);
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+ref = E;
+}
+);
+width = 510;
+},
+{
+anchors = (
+{
+name = m.fi;
+position = "{332, 702}";
+},
+{
+name = t.uni1FDF.case_6;
+position = "{15, 702}";
+}
+);
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+ref = E;
+}
+);
+width = 472;
+}
+);
+leftKerningGroup = B2;
+rightKerningGroup = E;
+unicode = 917;
+}

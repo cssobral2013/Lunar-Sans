@@ -1,0 +1,69 @@
+{
+glyphname = Etaaspergraveiotasub.ss05;
+layers = (
+{
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+pos = (411,0);
+ref = Eta;
+},
+{
+alignment = -1;
+pos = (-21,-117);
+ref = aspergrave.case;
+},
+{
+alignment = -1;
+pos = (1187,0);
+ref = iotaadscript;
+}
+);
+width = 1494;
+},
+{
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+pos = (266,0);
+ref = Eta;
+},
+{
+alignment = -1;
+pos = (-29,-58);
+ref = aspergrave.case;
+},
+{
+alignment = -1;
+pos = (1014,0);
+ref = iotaadscript;
+}
+);
+width = 1291;
+},
+{
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+pos = (173,0);
+ref = Eta;
+},
+{
+alignment = -1;
+pos = (-48,-25);
+ref = aspergrave.case;
+},
+{
+alignment = -1;
+pos = (904,0);
+ref = iotaadscript;
+}
+);
+width = 1163;
+}
+);
+rightKerningGroup = a;
+}

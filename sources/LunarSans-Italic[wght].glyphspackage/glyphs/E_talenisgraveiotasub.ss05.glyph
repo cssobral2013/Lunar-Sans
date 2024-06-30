@@ -1,0 +1,69 @@
+{
+glyphname = Etalenisgraveiotasub.ss05;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+pos = (415,0);
+ref = Eta;
+},
+{
+alignment = -1;
+pos = (-23,-100);
+ref = lenisgrave.case;
+},
+{
+alignment = -1;
+pos = (1192,0);
+ref = iotaadscript;
+}
+);
+width = 1499;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+pos = (285,0);
+ref = Eta;
+},
+{
+alignment = -1;
+pos = (-28,-52);
+ref = lenisgrave.case;
+},
+{
+alignment = -1;
+pos = (1001,0);
+ref = iotaadscript;
+}
+);
+width = 1266;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+pos = (215,0);
+ref = Eta;
+},
+{
+alignment = -1;
+pos = (-31,-25);
+ref = lenisgrave.case;
+},
+{
+alignment = -1;
+pos = (914,0);
+ref = iotaadscript;
+}
+);
+width = 1152;
+}
+);
+leftKerningGroup = tilde2;
+}

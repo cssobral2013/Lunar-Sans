@@ -1,0 +1,69 @@
+{
+glyphname = gecyr.sc;
+layers = (
+{
+anchors = (
+{
+name = m.tilde;
+position = "{247, 560}";
+},
+{
+name = b.tailcy_1;
+position = "{48, 0}";
+}
+);
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+pos = (-12,0);
+ref = gamma.sc;
+}
+);
+width = 447;
+},
+{
+anchors = (
+{
+name = m.tilde;
+position = "{247, 560}";
+},
+{
+name = b.tailcy_1;
+position = "{48, 0}";
+}
+);
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = gamma.sc;
+}
+);
+width = 415;
+},
+{
+anchors = (
+{
+name = m.tilde;
+position = "{236, 549}";
+},
+{
+name = b.tailcy_1;
+position = "{63, 0}";
+}
+);
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+pos = (5,0);
+ref = gamma.sc;
+}
+);
+width = 389;
+}
+);
+leftKerningGroup = uni1E2B.sc;
+}

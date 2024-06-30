@@ -1,0 +1,116 @@
+{
+glyphname = gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _m.tilde;
+position = "{213, 515}";
+},
+{
+name = _t.tilde;
+position = "{213, 515}";
+},
+{
+name = t.tilde;
+position = "{213, 824}";
+}
+);
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+closed = 1;
+nodes = (
+(150,824,l),
+(218,767,o),
+(288,710,o),
+(369,649,c),
+(321,570,l),
+(302,569,l),
+(225,605,o),
+(148,643,o),
+(59,688,c),
+(56,707,l),
+(131,823,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _m.tilde;
+position = "{213, 515}";
+},
+{
+name = _t.tilde;
+position = "{213, 515}";
+},
+{
+name = t.tilde;
+position = "{213, 824}";
+}
+);
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(144,764,l),
+(207,705,o),
+(265,656,o),
+(325,605,c),
+(300,568,l),
+(290,567,l),
+(229,611,o),
+(167,655,o),
+(102,704,c),
+(99,714,l),
+(134,763,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _m.tilde;
+position = "{214, 508}";
+},
+{
+name = _t.tilde;
+position = "{214, 508}";
+},
+{
+name = t.tilde;
+position = "{214, 791}";
+}
+);
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(142,731,l),
+(202,671,o),
+(252,624,o),
+(301,581,c),
+(289,567,l),
+(284,566,l),
+(231,614,o),
+(179,661,o),
+(127,713,c),
+(126,719,l),
+(137,729,l)
+);
+}
+);
+width = 0;
+}
+);
+leftKerningGroup = tilde2;
+rightKerningGroup = tilde;
+unicode = 768;
+}

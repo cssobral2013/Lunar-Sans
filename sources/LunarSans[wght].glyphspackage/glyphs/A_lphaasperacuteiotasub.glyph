@@ -1,0 +1,56 @@
+{
+glyphname = Alphaasperacuteiotasub;
+layers = (
+{
+layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+shapes = (
+{
+alignment = -1;
+pos = (244,0);
+ref = Alphaiotasub;
+},
+{
+alignment = -1;
+pos = (-54,-93);
+ref = asperacute.case;
+}
+);
+width = 928;
+},
+{
+layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+shapes = (
+{
+alignment = -1;
+pos = (209,0);
+ref = Alphaiotasub;
+},
+{
+alignment = -1;
+pos = (8,-48);
+ref = asperacute.case;
+}
+);
+width = 842;
+},
+{
+layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+shapes = (
+{
+alignment = -1;
+pos = (156,0);
+ref = Alphaiotasub;
+},
+{
+alignment = -1;
+pos = (10,-23);
+ref = asperacute.case;
+}
+);
+width = 761;
+}
+);
+leftKerningGroup = A2;
+rightKerningGroup = A;
+unicode = 8077;
+}

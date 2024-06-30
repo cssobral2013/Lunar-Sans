@@ -1,0 +1,56 @@
+{
+glyphname = Epsilonlenisgrave;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+pos = (415,0);
+ref = Epsilon;
+},
+{
+alignment = -1;
+pos = (-23,-100);
+ref = lenisgrave.case;
+}
+);
+width = 1006;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+pos = (285,0);
+ref = Epsilon;
+},
+{
+alignment = -1;
+pos = (-28,-52);
+ref = lenisgrave.case;
+}
+);
+width = 795;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+pos = (215,0);
+ref = Epsilon;
+},
+{
+alignment = -1;
+pos = (-31,-25);
+ref = lenisgrave.case;
+}
+);
+width = 687;
+}
+);
+leftKerningGroup = B2;
+rightKerningGroup = E;
+unicode = 7962;
+}

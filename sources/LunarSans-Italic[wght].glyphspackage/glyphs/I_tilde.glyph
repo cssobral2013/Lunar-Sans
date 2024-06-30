@@ -1,0 +1,53 @@
+{
+glyphname = Itilde;
+layers = (
+{
+layerId = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (-7,191);
+ref = tildecomb.i;
+}
+);
+width = 358;
+},
+{
+layerId = "D5071F36-EBB7-4621-927D-B6E908C39701";
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (-40,199);
+ref = tildecomb.i;
+}
+);
+width = 287;
+},
+{
+layerId = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (-58,202);
+ref = tildecomb.i;
+}
+);
+width = 257;
+}
+);
+leftKerningGroup = B2;
+rightKerningGroup = H;
+unicode = 296;
+}
