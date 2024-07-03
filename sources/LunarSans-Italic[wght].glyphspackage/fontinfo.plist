@@ -4408,7 +4408,7 @@ tag = calt;
 fontMaster = (
 {
 axesValues = (
-62.5
+100
 );
 customParameters = (
 {
@@ -4497,7 +4497,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "789C1080-F92A-44E1-A6A4-F5C9FEE0E400";
+id = "5DF7C2A1-46DB-4C62-B192-BDBF45A08E68";
 metricValues = (
 {
 pos = 900;
@@ -4520,7 +4520,7 @@ name = ThinItalic;
 },
 {
 axesValues = (
-425
+400
 );
 customParameters = (
 {
@@ -4609,7 +4609,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "D5071F36-EBB7-4621-927D-B6E908C39701";
+id = "B89B9549-E479-4766-A008-6386452E0029";
 metricValues = (
 {
 pos = 900;
@@ -4631,7 +4631,7 @@ name = Italic;
 },
 {
 axesValues = (
-937.5
+900
 );
 customParameters = (
 {
@@ -4720,7 +4720,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "0D940768-C6A2-40E2-A30B-6A5FB82294FF";
+id = "AD20C1EC-521C-4BF7-AAE3-FC850D8A306C";
 metricValues = (
 {
 pos = 900;
@@ -4816,3531 +4816,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"0D940768-C6A2-40E2-A30B-6A5FB82294FF" = {
-"@MMK_L_A" = {
-"@MMK_R_C2" = -19;
-"@MMK_R_T2" = -43;
-"@MMK_R_U2" = -29;
-"@MMK_R_V2" = -41;
-"@MMK_R_X" = -20;
-"@MMK_R_Y2" = -62;
-"@MMK_R_a2" = -14;
-"@MMK_R_b2" = 19;
-"@MMK_R_bullet2" = -38;
-"@MMK_R_p" = -19;
-"@MMK_R_t2" = -19;
-"@MMK_R_tilde2" = -67;
-"@MMK_R_uni0427" = -19;
-"@MMK_R_v2" = -29;
-};
-"@MMK_L_Alpha.sups" = {
-"@MMK_R_Phi.sups2" = -14;
-"@MMK_R_nu.sups2" = -22;
-"@MMK_R_psi.sups" = -14;
-"@MMK_R_rho.sups2" = -14;
-"@MMK_R_xi.sups2" = -11;
-Tau.sups = -31;
-Upsilon.sups = -45;
-};
-"@MMK_L_B" = {
-"@MMK_R_comma2" = -19;
-"@MMK_R_tilde2" = -19;
-};
-"@MMK_L_C" = {
-"@MMK_R_a2" = -10;
-"@MMK_R_bullet2" = -19;
-"@MMK_R_g2" = -10;
-"@MMK_R_m" = -10;
-"@MMK_R_t2" = -10;
-"@MMK_R_v2" = -10;
-Efcyr = -30;
-};
-"@MMK_L_Chi.sups" = {
-"@MMK_R_Phi.sups2" = -14;
-"@MMK_R_nu.sups2" = -22;
-"@MMK_R_psi.sups" = -11;
-"@MMK_R_xi.sups2" = -14;
-};
-"@MMK_L_D" = {
-"@MMK_R_A2" = -19;
-"@MMK_R_T2" = -19;
-"@MMK_R_V2" = -29;
-"@MMK_R_X" = -19;
-"@MMK_R_Y2" = -43;
-"@MMK_R_comma2" = -29;
-"@MMK_R_j2" = 10;
-"@MMK_R_tilde2" = -10;
-"@MMK_R_yacute2" = 19;
-Xi = -10;
-};
-"@MMK_L_E" = {
-"@MMK_R_C2" = -10;
-"@MMK_R_a2" = -10;
-"@MMK_R_bullet2" = -10;
-"@MMK_R_f" = -10;
-"@MMK_R_g2" = -10;
-"@MMK_R_m" = -10;
-"@MMK_R_t2" = -10;
-"@MMK_R_v2" = -10;
-};
-"@MMK_L_F" = {
-"@MMK_R_A2" = -24;
-"@MMK_R_J" = 38;
-"@MMK_R_M2" = -10;
-"@MMK_R_T2" = 29;
-"@MMK_R_V2" = 29;
-"@MMK_R_X" = 29;
-"@MMK_R_Y2" = 38;
-"@MMK_R_a2" = -13;
-"@MMK_R_comma2" = -95;
-"@MMK_R_g2" = -40;
-"@MMK_R_m" = -10;
-"@MMK_R_p" = -10;
-"@MMK_R_s2" = -19;
-"@MMK_R_t2" = -19;
-"@MMK_R_tilde2" = 19;
-"@MMK_R_uni0436" = -10;
-};
-"@MMK_L_G" = {
-"@MMK_R_a2" = -10;
-"@MMK_R_b2" = -10;
-"@MMK_R_g2" = -20;
-"@MMK_R_m" = -19;
-"@MMK_R_t2" = -10;
-"@MMK_R_v2" = -19;
-};
-"@MMK_L_Gamma" = {
-"@MMK_R_A2" = -82;
-"@MMK_R_C2" = -55;
-"@MMK_R_T2" = 10;
-"@MMK_R_X" = -50;
-"@MMK_R_comma2" = -150;
-"@MMK_R_uni01B7" = -20;
-"@MMK_R_uni03A9" = -24;
-"@MMK_R_uni0414_2" = -90;
-Efcyr = -53;
-};
-"@MMK_L_H" = {
-"@MMK_R_a2" = -19;
-"@MMK_R_bullet2" = -29;
-"@MMK_R_comma2" = -29;
-"@MMK_R_g2" = -15;
-"@MMK_R_t2" = -10;
-"@MMK_R_v2" = -19;
-};
-"@MMK_L_K" = {
-"@MMK_R_C2" = -19;
-"@MMK_R_T2" = -40;
-"@MMK_R_a2" = -19;
-"@MMK_R_bullet2" = -57;
-"@MMK_R_p" = -19;
-"@MMK_R_t2" = -14;
-"@MMK_R_uni0427" = -60;
-"@MMK_R_v2" = -29;
-"@MMK_R_yacute2" = -29;
-Efcyr = -30;
-};
-"@MMK_L_L" = {
-"@MMK_R_C2" = -24;
-"@MMK_R_T2" = -73;
-"@MMK_R_V2" = -59;
-"@MMK_R_Y2" = -71;
-"@MMK_R_tilde2" = -86;
-"@MMK_R_uni0427" = -60;
-"@MMK_R_uni0436" = 10;
-"@MMK_R_v2" = -29;
-"@MMK_R_yacute2" = -29;
-};
-"@MMK_L_M" = {
-"@MMK_R_V2" = -10;
-"@MMK_R_a2" = -10;
-"@MMK_R_bullet2" = -29;
-"@MMK_R_t2" = -10;
-"@MMK_R_v2" = -14;
-};
-"@MMK_L_Nu.sups" = {
-"@MMK_R_nu.sups2" = -14;
-"@MMK_R_xi.sups2" = -14;
-};
-"@MMK_L_P" = {
-"@MMK_R_A2" = -57;
-"@MMK_R_V2" = -10;
-"@MMK_R_a2" = -18;
-"@MMK_R_bullet2" = -38;
-"@MMK_R_comma2" = -143;
-"@MMK_R_g2" = -30;
-"@MMK_R_m" = -8;
-"@MMK_R_p" = -8;
-"@MMK_R_s2" = -10;
-"@MMK_R_t2" = -8;
-"@MMK_R_uni0414_2" = -30;
-};
-"@MMK_L_Phi.sups" = {
-"@MMK_R_Alpha.sups2" = -14;
-"@MMK_R_Chi.sups2" = -14;
-Tau.sups = -14;
-Upsilon.sups = -31;
-};
-"@MMK_L_R" = {
-"@MMK_R_C2" = -10;
-"@MMK_R_T2" = -10;
-"@MMK_R_U2" = -10;
-"@MMK_R_V2" = -19;
-"@MMK_R_Y2" = -27;
-"@MMK_R_a2" = -29;
-"@MMK_R_bullet2" = -38;
-"@MMK_R_g2" = -10;
-"@MMK_R_p" = -19;
-"@MMK_R_t2" = -10;
-"@MMK_R_v2" = -10;
-"@MMK_R_yacute2" = -10;
-Efcyr = -30;
-};
-"@MMK_L_S" = {
-"@MMK_R_T2" = -10;
-"@MMK_R_a2" = -10;
-"@MMK_R_comma2" = -19;
-"@MMK_R_m" = -10;
-"@MMK_R_uni0436" = -19;
-"@MMK_R_v2" = -19;
-};
-"@MMK_L_T" = {
-"@MMK_R_A2" = -43;
-"@MMK_R_C2" = -19;
-"@MMK_R_S2" = -10;
-"@MMK_R_a2" = -57;
-"@MMK_R_bullet2" = -67;
-"@MMK_R_comma2" = -76;
-"@MMK_R_g2" = -60;
-"@MMK_R_m" = -57;
-"@MMK_R_p" = -57;
-"@MMK_R_s2" = -57;
-"@MMK_R_t2" = -57;
-"@MMK_R_tau" = -19;
-"@MMK_R_uni0414_2" = -80;
-"@MMK_R_uni0436" = -57;
-"@MMK_R_v2" = -57;
-"@MMK_R_yacute2" = -57;
-"@MMK_R_z2" = -57;
-Efcyr = -30;
-};
-"@MMK_L_U" = {
-"@MMK_R_A2" = -29;
-"@MMK_R_a2" = -10;
-"@MMK_R_bullet2" = -29;
-"@MMK_R_comma2" = -10;
-"@MMK_R_m" = -10;
-"@MMK_R_p" = -10;
-};
-"@MMK_L_V" = {
-"@MMK_R_A2" = -41;
-"@MMK_R_C2" = -29;
-"@MMK_R_M2" = -10;
-"@MMK_R_S2" = -10;
-"@MMK_R_X" = -40;
-"@MMK_R_a2" = -48;
-"@MMK_R_b2" = 10;
-"@MMK_R_bullet2" = -57;
-"@MMK_R_comma2" = -67;
-"@MMK_R_f" = -19;
-"@MMK_R_g2" = -50;
-"@MMK_R_j2" = -10;
-"@MMK_R_m" = -38;
-"@MMK_R_p" = -38;
-"@MMK_R_s2" = -29;
-"@MMK_R_t2" = -38;
-"@MMK_R_tau" = -10;
-"@MMK_R_uni0414_2" = -50;
-"@MMK_R_uni0436" = -38;
-"@MMK_R_v2" = -29;
-"@MMK_R_yacute2" = -29;
-"@MMK_R_z2" = -29;
-Efcyr = -20;
-};
-"@MMK_L_Y" = {
-"@MMK_R_A2" = -62;
-"@MMK_R_C2" = -43;
-"@MMK_R_a2" = -67;
-"@MMK_R_bullet2" = -95;
-"@MMK_R_comma2" = -95;
-"@MMK_R_f" = -29;
-"@MMK_R_g2" = -70;
-"@MMK_R_m" = -67;
-"@MMK_R_p" = -67;
-"@MMK_R_s2" = -48;
-"@MMK_R_t2" = -67;
-"@MMK_R_tau" = -29;
-"@MMK_R_tilde2" = 10;
-"@MMK_R_uni0414_2" = -50;
-"@MMK_R_uni0436" = -57;
-"@MMK_R_v2" = -57;
-"@MMK_R_yacute2" = -38;
-"@MMK_R_z2" = -48;
-Efcyr = -30;
-};
-"@MMK_L_Z" = {
-"@MMK_R_g2" = -10;
-"@MMK_R_t2" = -10;
-"@MMK_R_v2" = -14;
-};
-"@MMK_L_a" = {
-"@MMK_R_B2" = -10;
-"@MMK_R_J" = -19;
-"@MMK_R_T2" = -57;
-"@MMK_R_V2" = -38;
-"@MMK_R_Y2" = -67;
-"@MMK_R_f" = -10;
-"@MMK_R_tilde2" = -29;
-"@MMK_R_v2" = -10;
-};
-"@MMK_L_b" = {
-"@MMK_R_A2" = -14;
-"@MMK_R_B2" = -19;
-"@MMK_R_J" = -19;
-"@MMK_R_T2" = -57;
-"@MMK_R_V2" = -48;
-"@MMK_R_X" = -19;
-"@MMK_R_Y2" = -67;
-"@MMK_R_comma2" = -19;
-"@MMK_R_f" = -19;
-"@MMK_R_hbar" = -50;
-"@MMK_R_tilde2" = -19;
-"@MMK_R_uni0436" = -14;
-"@MMK_R_v2" = -10;
-"@MMK_R_yacute2" = -10;
-};
-"@MMK_L_bullet" = {
-"@MMK_R_A2" = -38;
-"@MMK_R_B2" = -29;
-"@MMK_R_J" = -29;
-"@MMK_R_M2" = -29;
-"@MMK_R_T2" = -67;
-"@MMK_R_U2" = -29;
-"@MMK_R_V2" = -57;
-"@MMK_R_X" = -57;
-"@MMK_R_Y2" = -95;
-"@MMK_R_uni0436" = -38;
-"@MMK_R_v2" = -29;
-};
-"@MMK_L_c" = {
-"@MMK_R_B2" = -19;
-"@MMK_R_T2" = -29;
-"@MMK_R_Y2" = -48;
-"@MMK_R_bullet2" = -19;
-"@MMK_R_comma2" = -10;
-"@MMK_R_hbar" = -50;
-};
-"@MMK_L_comma" = {
-"@MMK_R_C2" = -29;
-"@MMK_R_T2" = -76;
-"@MMK_R_U2" = -10;
-"@MMK_R_V2" = -67;
-"@MMK_R_Y2" = -95;
-"@MMK_R_a2" = -19;
-"@MMK_R_t2" = -19;
-"@MMK_R_tilde2" = -76;
-"@MMK_R_uni0427" = -70;
-"@MMK_R_v2" = -57;
-"@MMK_R_yacute2" = -38;
-};
-"@MMK_L_e" = {
-"@MMK_R_A2" = -19;
-"@MMK_R_B2" = -19;
-"@MMK_R_T2" = -57;
-"@MMK_R_Y2" = -57;
-"@MMK_R_comma2" = -10;
-"@MMK_R_hbar" = -40;
-"@MMK_R_tilde2" = -19;
-"@MMK_R_uni0436" = -12;
-};
-"@MMK_L_eta.sups" = {
-"@MMK_R_nu.sups2" = -7;
-Tau.sups = -43;
-Upsilon.sups = -50;
-};
-"@MMK_L_g" = {
-"@MMK_R_A2" = -19;
-"@MMK_R_T2" = -57;
-"@MMK_R_V2" = -38;
-"@MMK_R_Y2" = -67;
-"@MMK_R_tilde2" = -19;
-};
-"@MMK_L_gtilde" = {
-"@MMK_R_J" = 30;
-"@MMK_R_T2" = 20;
-"@MMK_R_Y2" = -30;
-"@MMK_R_Z2" = 10;
-"@MMK_R_tilde2" = 30;
-};
-"@MMK_L_iota.sups" = {
-Tau.sups = -43;
-Upsilon.sups = -43;
-};
-"@MMK_L_j" = {
-"@MMK_R_comma2" = -19;
-};
-"@MMK_L_k" = {
-"@MMK_R_tilde2" = -30;
-};
-"@MMK_L_nu.sups" = {
-"@MMK_R_Alpha.sups2" = -22;
-"@MMK_R_Chi.sups2" = -22;
-"@MMK_R_xi.sups2" = -7;
-Tau.sups = -43;
-Upsilon.sups = -43;
-};
-"@MMK_L_pi.sups" = {
-Tau.sups = -22;
-Upsilon.sups = -36;
-};
-"@MMK_L_r" = {
-"@MMK_R_A2" = -29;
-"@MMK_R_B2" = -10;
-"@MMK_R_J" = -19;
-"@MMK_R_T2" = -67;
-"@MMK_R_V2" = -25;
-"@MMK_R_X" = -38;
-"@MMK_R_Y2" = -38;
-"@MMK_R_bullet2" = -19;
-"@MMK_R_comma2" = -57;
-"@MMK_R_tilde2" = 19;
-};
-"@MMK_L_rho.sups" = {
-"@MMK_R_Alpha.sups2" = -11;
-"@MMK_R_Chi.sups2" = -14;
-"@MMK_R_Nu.sups2" = -14;
-"@MMK_R_nu.sups2" = -7;
-Tau.sups = -43;
-Upsilon.sups = -50;
-pi.sups = -14;
-};
-"@MMK_L_s" = {
-"@MMK_R_T2" = -57;
-"@MMK_R_V2" = -29;
-"@MMK_R_X" = -19;
-"@MMK_R_Y2" = -48;
-"@MMK_R_comma2" = -10;
-"@MMK_R_hbar" = -40;
-};
-"@MMK_L_t" = {
-"@MMK_R_B2" = -10;
-"@MMK_R_T2" = -29;
-"@MMK_R_V2" = -10;
-"@MMK_R_X" = -10;
-"@MMK_R_Y2" = -48;
-};
-"@MMK_L_tilde" = {
-"@MMK_R_A2" = -40;
-"@MMK_R_C2" = -10;
-"@MMK_R_Y2" = 10;
-"@MMK_R_a2" = -30;
-"@MMK_R_comma2" = -80;
-"@MMK_R_g2" = -80;
-"@MMK_R_m" = -20;
-"@MMK_R_p" = -20;
-"@MMK_R_t2" = -20;
-"@MMK_R_uni0414_2" = -86;
-"@MMK_R_uni0430" = -14;
-};
-"@MMK_L_u" = {
-"@MMK_R_T2" = -57;
-"@MMK_R_V2" = -38;
-"@MMK_R_Y2" = -57;
-"@MMK_R_f" = -10;
-"@MMK_R_tilde2" = -29;
-};
-"@MMK_L_uni040B" = {
-"@MMK_R_T2" = -52;
-"@MMK_R_V2" = -50;
-"@MMK_R_tilde2" = -24;
-};
-"@MMK_L_uni0414" = {
-"@MMK_R_M2" = 20;
-"@MMK_R_T2" = -40;
-"@MMK_R_V2" = -20;
-"@MMK_R_comma2" = 40;
-"@MMK_R_uni0414_2" = 40;
-"@MMK_R_uni0427" = -20;
-};
-"@MMK_L_uni042C" = {
-"@MMK_R_T2" = -80;
-"@MMK_R_V2" = -14;
-"@MMK_R_X" = -20;
-"@MMK_R_Y2" = -60;
-"@MMK_R_uni0414_2" = -10;
-};
-"@MMK_L_uni0432" = {
-"@MMK_R_hbar" = -32;
-};
-"@MMK_L_uni0443.sc" = {
-"@MMK_R_uni0443.sc2" = -34;
-};
-"@MMK_L_uni044C" = {
-"@MMK_R_hbar" = -40;
-};
-"@MMK_L_uni0462" = {
-"@MMK_R_T2" = -50;
-"@MMK_R_V2" = -18;
-"@MMK_R_X" = -20;
-"@MMK_R_tilde2" = -47;
-};
-"@MMK_L_uni0491" = {
-"@MMK_R_a2" = -30;
-"@MMK_R_j2" = 10;
-"@MMK_R_s2" = -10;
-};
-"@MMK_L_v" = {
-"@MMK_R_A2" = -29;
-"@MMK_R_B2" = -10;
-"@MMK_R_J" = -10;
-"@MMK_R_T2" = -57;
-"@MMK_R_V2" = -29;
-"@MMK_R_X" = -29;
-"@MMK_R_Y2" = -57;
-"@MMK_R_a2" = -10;
-"@MMK_R_bullet2" = -29;
-"@MMK_R_comma2" = -57;
-"@MMK_R_hbar" = -30;
-"@MMK_R_tilde2" = 10;
-};
-"@MMK_L_x" = {
-"@MMK_R_T2" = -57;
-"@MMK_R_V2" = -38;
-"@MMK_R_Y2" = -57;
-"@MMK_R_a2" = -14;
-"@MMK_R_bullet2" = -38;
-"@MMK_R_hbar" = -30;
-"@MMK_R_tilde2" = 38;
-};
-"@MMK_L_xi.sups" = {
-"@MMK_R_Nu.sups2" = -14;
-Tau.sups = -22;
-Upsilon.sups = -36;
-};
-"@MMK_L_yacute" = {
-"@MMK_R_T2" = -57;
-"@MMK_R_V2" = -29;
-"@MMK_R_X" = -29;
-"@MMK_R_Y2" = -38;
-"@MMK_R_a2" = -10;
-"@MMK_R_comma2" = -57;
-};
-"@MMK_L_z" = {
-"@MMK_R_T2" = -57;
-"@MMK_R_V2" = -29;
-"@MMK_R_Y2" = -48;
-};
-A = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Aacute = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Abreve = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Abreveacute = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Abrevecyr = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Abrevedotbelow = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Abrevegrave = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Abrevehoi = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Abrevetilde = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Acaron = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Acircumflex = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Acircumflexacute = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Acircumflexdotbelow = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Acircumflexgrave = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Acircumflexhoi = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Acircumflextilde = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Acyr = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Adieresis = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Adieresiscyr = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Adotbelow = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Agrave = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Ahoi = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alpha = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphaacute = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphaasper = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphaasperacute = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphaasperacuteiotasub = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphaaspergrave = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphaaspergraveiotasub = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphaasperiotasub = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphaaspertilde = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphaaspertildeiotasub = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphabreve = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphagrave = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphaiotasub = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphaiotasub.ss05 = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-Alphalenis = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphalenisacute = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphalenisacuteiotasub = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphalenisgrave = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphalenisgraveiotasub = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphalenisiotasub = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphalenistilde = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphalenistildeiotasub = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphatonos = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Alphawithmacron = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Amacron = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Aogonek = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Aring = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Aringacute = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Atilde = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Chetailcyr = {
-bracketright = 30;
-colon = 40;
-parenright = 40;
-semicolon = 40;
-};
-D = {
-Yatcyr = -19;
-};
-Dcaron = {
-Yatcyr = -19;
-};
-Dcroat = {
-Yatcyr = -19;
-};
-Decyr = {
-bracketright = 30;
-colon = 40;
-parenright = 40;
-semicolon = 40;
-};
-Delta = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Djecyr = {
-Yatcyr = -29;
-};
-Efcyr = {
-"@MMK_R_T2" = -30;
-"@MMK_R_V2" = -20;
-"@MMK_R_X" = -30;
-"@MMK_R_Y2" = -30;
-};
-Engecyr = {
-Decyr = -73;
-colon = -80;
-semicolon = -80;
-};
-Ensharptailcyr = {
-bracketright = 30;
-colon = 40;
-parenright = 40;
-semicolon = 40;
-};
-Entailcyr = {
-bracketright = 30;
-colon = 40;
-parenright = 40;
-semicolon = 40;
-};
-Ereversedcyr = {
-Yatcyr = -19;
-};
-Etaiotasub.ss05 = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-Eth = {
-Yatcyr = -19;
-};
-Fitacyr = {
-Yatcyr = -19;
-};
-Gamma = {
-Decyr = -73;
-colon = -80;
-semicolon = -80;
-};
-Gamma.sups = {
-"@MMK_R_Alpha.sups2" = -45;
-"@MMK_R_Phi.sups2" = -18;
-Omega.sups = -17;
-};
-Gecyr = {
-Decyr = -73;
-colon = -80;
-semicolon = -80;
-};
-Gestrokecyr = {
-"@MMK_R_A2" = -60;
-"@MMK_R_M2" = -30;
-"@MMK_R_uni0414_2" = -80;
-Efcyr = -30;
-};
-Getailcyr = {
-Decyr = -73;
-colon = -80;
-semicolon = -80;
-};
-Geupcyr = {
-Decyr = -73;
-colon = -80;
-semicolon = -80;
-};
-Gjecyr = {
-Decyr = -73;
-colon = -80;
-semicolon = -80;
-};
-Hardcyr = {
-Decyr = -10;
-Tshecyr = -80;
-Yatcyr = -26;
-};
-Izhitsacyr = {
-Decyr = -40;
-};
-Lambda = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-Ljecyr = {
-Decyr = -10;
-Tshecyr = -80;
-Yatcyr = -26;
-};
-Mu.sups = {
-"@MMK_R_nu.sups2" = -11;
-};
-N = {
-a = -29;
-aacute = -29;
-abreve = -29;
-abreveacute = -29;
-abrevedotbelow = -29;
-abrevegrave = -29;
-abrevehoi = -29;
-abrevetilde = -29;
-acaron = -29;
-acircumflex = -29;
-acircumflexacute = -29;
-acircumflexdotbelow = -29;
-acircumflexgrave = -29;
-acircumflexhoi = -29;
-acircumflextilde = -29;
-adieresis = -29;
-adotbelow = -29;
-ae = -29;
-aeacute = -29;
-agrave = -29;
-ahoi = -29;
-aiecyr = -29;
-alpha = -29;
-alphaacute = -29;
-alphaacuteiotasub = -29;
-alphaasper = -29;
-alphaasperacute = -29;
-alphaasperacuteiotasub = -29;
-alphaaspergrave = -29;
-alphaaspergraveiotasub = -29;
-alphaasperiotasub = -29;
-alphaaspertilde = -29;
-alphaaspertildeiotasub = -29;
-alphabreve = -29;
-alphagrave = -29;
-alphagraveiotasub = -29;
-alphaiotasub = -29;
-alphalenis = -29;
-alphalenisacute = -29;
-alphalenisacuteiotasub = -29;
-alphalenisgrave = -29;
-alphalenisgraveiotasub = -29;
-alphalenisiotasub = -29;
-alphalenistilde = -29;
-alphalenistildeiotasub = -29;
-alphatilde = -29;
-alphatildeiotasub = -29;
-alphawithmacron = -29;
-amacron = -29;
-aogonek = -29;
-aring = -29;
-aringacute = -29;
-atilde = -29;
-becyr.loclSRB = -29;
-c = -29;
-cacute = -29;
-ccaron = -29;
-ccedilla = -29;
-ccircumflex = -29;
-cdotaccent = -29;
-d = -29;
-dcaron = -29;
-dcroat = -29;
-decyr = -29;
-delta = -29;
-e = -29;
-eacute = -29;
-ebreve = -29;
-ecaron = -29;
-ecircumflex = -29;
-ecircumflexacute = -29;
-ecircumflexdotbelow = -29;
-ecircumflexgrave = -29;
-ecircumflexhoi = -29;
-ecircumflextilde = -29;
-edieresis = -29;
-edotaccent = -29;
-edotbelow = -29;
-efcyr = -29;
-egrave = -29;
-ehoi = -29;
-emacron = -29;
-eogonek = -29;
-escyr = -29;
-estailcyr = -29;
-estailcyr.loclCHU = -29;
-etilde = -29;
-eukrcyr = -29;
-fitacyr = -29;
-gecyr = -29;
-gestrokecyr = -29;
-getailcyr = -29;
-gjecyr = -29;
-iebrevecyr = -29;
-iecyr = -29;
-iegravecyr = -29;
-iocyr = -29;
-o = -29;
-oacute = -29;
-obarcyr = -29;
-obreve = -29;
-ocaron = -29;
-ocircumflex = -29;
-ocircumflexacute = -29;
-ocircumflexdotbelow = -29;
-ocircumflexgrave = -29;
-ocircumflexhoi = -29;
-ocircumflextilde = -29;
-ocyr = -29;
-odieresis = -29;
-odieresiscyr = -29;
-odotbelow = -29;
-oe = -29;
-ograve = -29;
-ohoi = -29;
-ohorn = -29;
-ohornacute = -29;
-ohorndotbelow = -29;
-ohorngrave = -29;
-ohornhoi = -29;
-ohorntilde = -29;
-ohungarumlaut = -29;
-omacron = -29;
-omicron = -29;
-omicronacute = -29;
-omicronasper = -29;
-omicronasperacute = -29;
-omicronaspergrave = -29;
-omicrongrave = -29;
-omicronlenis = -29;
-omicronlenisacute = -29;
-omicronlenisgrave = -29;
-omicrontonos = -29;
-oogonek = -29;
-oslash = -29;
-oslashacute = -29;
-oslashacute.BRACKET = -29;
-otilde = -29;
-phi = -29;
-q = -29;
-qacyr = -29;
-schwa = -29;
-schwacyr = -29;
-sigma = -29;
-sigmafinal = -29;
-vecyr = -29;
-xi = -29;
-};
-Njecyr = {
-Decyr = -10;
-Tshecyr = -80;
-Yatcyr = -26;
-};
-O = {
-Yatcyr = -19;
-};
-Oacute = {
-Yatcyr = -19;
-};
-Obarcyr = {
-Yatcyr = -19;
-};
-Obreve = {
-Yatcyr = -19;
-};
-Ocaron = {
-Yatcyr = -19;
-};
-Ocircumflex = {
-Yatcyr = -19;
-};
-Ocircumflexacute = {
-Yatcyr = -19;
-};
-Ocircumflexdotbelow = {
-Yatcyr = -19;
-};
-Ocircumflexgrave = {
-Yatcyr = -19;
-};
-Ocircumflexhoi = {
-Yatcyr = -19;
-};
-Ocircumflextilde = {
-Yatcyr = -19;
-};
-Ocyr = {
-Yatcyr = -19;
-};
-Odieresis = {
-Yatcyr = -19;
-};
-Odieresiscyr = {
-Yatcyr = -19;
-};
-Odotbelow = {
-Yatcyr = -19;
-};
-Ograve = {
-Yatcyr = -19;
-};
-Ohoi = {
-Yatcyr = -19;
-};
-Ohorn = {
-Yatcyr = -19;
-};
-Ohornacute = {
-Yatcyr = -19;
-};
-Ohorndotbelow = {
-Yatcyr = -19;
-};
-Ohorngrave = {
-Yatcyr = -19;
-};
-Ohornhoi = {
-Yatcyr = -19;
-};
-Ohorntilde = {
-Yatcyr = -19;
-};
-Ohungarumlaut = {
-Yatcyr = -19;
-};
-Omacron = {
-Yatcyr = -19;
-};
-Omicron = {
-Yatcyr = -19;
-};
-Omicronacute = {
-Yatcyr = -19;
-};
-Omicronasper = {
-Yatcyr = -19;
-};
-Omicronasperacute = {
-Yatcyr = -19;
-};
-Omicronaspergrave = {
-Yatcyr = -19;
-};
-Omicrongrave = {
-Yatcyr = -19;
-};
-Omicronlenis = {
-Yatcyr = -19;
-};
-Omicronlenisacute = {
-Yatcyr = -19;
-};
-Omicronlenisgrave = {
-Yatcyr = -19;
-};
-Omicrontonos = {
-Yatcyr = -19;
-};
-Oogonek = {
-Yatcyr = -19;
-};
-Oslash = {
-Yatcyr = -19;
-};
-Oslashacute = {
-Yatcyr = -19;
-};
-Oslashacute.BRACKET = {
-Yatcyr = -19;
-};
-Otilde = {
-Yatcyr = -19;
-};
-Phi = {
-Yatcyr = -19;
-};
-Q = {
-Yatcyr = -19;
-};
-Q.short = {
-Yatcyr = -19;
-};
-Qacyr = {
-Yatcyr = -19;
-};
-Rho.sups = {
-"@MMK_R_Alpha.sups2" = -41;
-"@MMK_R_xi.sups2" = -14;
-};
-Saltillo = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-Schwa = {
-Yatcyr = -19;
-};
-Schwacyr = {
-Yatcyr = -19;
-};
-Shchacyr = {
-bracketright = 30;
-colon = 40;
-parenright = 40;
-semicolon = 40;
-};
-Shhacyr = {
-"@MMK_R_T2" = -60;
-"@MMK_R_V2" = -16;
-"@MMK_R_uni0427" = -20;
-Tshecyr = -60;
-Yatcyr = -15;
-};
-Softcyr = {
-Decyr = -10;
-Tshecyr = -80;
-Yatcyr = -26;
-};
-T = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-Tau = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-Tau.sups = {
-"@MMK_R_Alpha.sups2" = -31;
-"@MMK_R_Phi.sups2" = -14;
-"@MMK_R_eta.sups2" = -36;
-"@MMK_R_nu.sups2" = -43;
-"@MMK_R_psi.sups" = -43;
-"@MMK_R_rho.sups2" = -43;
-"@MMK_R_xi.sups2" = -43;
-};
-Tbar = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-Tcaron = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-Tcedilla = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-Tcommaaccent = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-Tecyr = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-Theta = {
-Yatcyr = -19;
-};
-Tsecyr = {
-bracketright = 30;
-colon = 40;
-parenright = 40;
-semicolon = 40;
-};
-Tshecyr = {
-Yatcyr = -29;
-};
-Uacutedblcyr = {
-Decyr = -40;
-};
-Ucyr = {
-Decyr = -40;
-};
-Udieresiscyr = {
-Decyr = -40;
-};
-Umacroncyr = {
-Decyr = -40;
-};
-Upsilon.sups = {
-"@MMK_R_Alpha.sups2" = -45;
-"@MMK_R_Phi.sups2" = -31;
-"@MMK_R_eta.sups2" = -50;
-"@MMK_R_nu.sups2" = -43;
-"@MMK_R_psi.sups" = -50;
-"@MMK_R_rho.sups2" = -50;
-"@MMK_R_xi.sups2" = -50;
-};
-Ushortcyr = {
-Decyr = -40;
-};
-V = {
-Decyr = -40;
-};
-W = {
-Decyr = -40;
-};
-Wacute = {
-Decyr = -40;
-};
-Wcircumflex = {
-Decyr = -40;
-};
-Wdieresis = {
-Decyr = -40;
-};
-Wecyr = {
-Decyr = -40;
-};
-Wgrave = {
-Decyr = -40;
-};
-Yucyr = {
-Yatcyr = -19;
-};
-Zeta.sups = {
-"@MMK_R_nu.sups2" = -11;
-};
-a = {
-B = -10;
-Becyr = -10;
-Beta = -10;
-D = -10;
-Dcaron = -10;
-Dcroat = -10;
-Dzhecyr = -10;
-E = -10;
-Eacute = -10;
-Ebreve = -10;
-Ecaron = -10;
-Ecircumflex = -10;
-Ecircumflexacute = -10;
-Ecircumflexdotbelow = -10;
-Ecircumflexgrave = -10;
-Ecircumflexhoi = -10;
-Ecircumflextilde = -10;
-Edieresis = -10;
-Edotaccent = -10;
-Edotbelow = -10;
-Egrave = -10;
-Ehoi = -10;
-Emacron = -10;
-Encyr = -10;
-Eng = -10;
-Engecyr = -10;
-Ensharptailcyr = -10;
-Entailcyr = -10;
-Eogonek = -10;
-Epsilon = -10;
-Epsilonacute = -10;
-Epsilonasper = -10;
-Epsilonasperacute = -10;
-Epsilonaspergrave = -10;
-Epsilongrave = -10;
-Epsilonlenis = -10;
-Epsilonlenisacute = -10;
-Epsilonlenisgrave = -10;
-Ercyr = -10;
-Eta = -10;
-Etaacute = -10;
-Etaasper = -10;
-Etaasperacute = -10;
-Etaasperacuteiotasub = -10;
-Etaaspergrave = -10;
-Etaaspergraveiotasub = -10;
-Etaasperiotasub = -10;
-Etaaspertilde = -10;
-Etaaspertildeiotasub = -10;
-Etagrave = -10;
-Etaiotasub = -10;
-Etaiotasub.sc.ss05 = -10;
-Etaiotasub.ss05 = -10;
-Etalenis = -10;
-Etalenisacute = -10;
-Etalenisacuteiotasub = -10;
-Etalenisgrave = -10;
-Etalenisgraveiotasub = -10;
-Etalenisiotasub = -10;
-Etalenistilde = -10;
-Etalenistildeiotasub = -10;
-Eth = -10;
-Etilde = -10;
-F = -10;
-Gamma = -10;
-Gecyr = -10;
-Gehookcyr = -10;
-Gestrokecyr.loclBSH = -10;
-Getailcyr = -10;
-Geupcyr = -10;
-Gjecyr = -10;
-H = -10;
-Hbar = -10;
-Hcircumflex = -10;
-I = -10;
-IJ = -10;
-Iacute = -10;
-Ibreve = -10;
-Icaron = -10;
-Icircumflex = -10;
-Icyr = -10;
-Idieresis = -10;
-Idieresiscyr = -10;
-Idotaccent = -10;
-Idotbelow = -10;
-Iebrevecyr = -10;
-Iecyr = -10;
-Iegravecyr = -10;
-Igrave = -10;
-Igravecyr = -10;
-Ihoi = -10;
-Imacron = -10;
-Imacroncyr = -10;
-Iocyr = -10;
-Iogonek = -10;
-Iota = -10;
-Iotaacute = -10;
-Iotaasper = -10;
-Iotaasperacute = -10;
-Iotaaspergrave = -10;
-Iotaaspertilde = -10;
-Iotabreve = -10;
-Iotadieresis = -10;
-Iotagrave = -10;
-Iotalenis = -10;
-Iotalenisacute = -10;
-Iotalenisgrave = -10;
-Iotalenistilde = -10;
-Iotawithmacron = -10;
-Ishortcyr = -10;
-Itilde = -10;
-Iukrcyr = -10;
-J = -19;
-Jcircumflex = -19;
-Jecyr = -19;
-K = -10;
-Kacyr = -10;
-Kaisymbol = -10;
-Kappa = -10;
-Katailcyr = -10;
-Kaverticalstrokecyr = -10;
-Kcommaaccent = -10;
-Kjecyr = -10;
-L = -10;
-Lacute = -10;
-Lcaron = -10;
-Lcommaaccent = -10;
-Ldot = -10;
-Lslash = -10;
-N = -10;
-Nacute = -10;
-Ncaron = -10;
-Ncommaaccent = -10;
-Njecyr = -10;
-Ntilde = -10;
-Nu = -10;
-P = -10;
-Palochkacyr = -10;
-Pecyr = -10;
-Petailcyr = -10;
-Pi = -10;
-R = -10;
-Racute = -10;
-Rcaron = -10;
-Rcommaaccent = -10;
-Rho = -10;
-Shacyr = -10;
-Shchacyr = -10;
-Shhacyr = -10;
-Softcyr = -10;
-Thorn = -10;
-Tsecyr = -10;
-Vecyr = -10;
-Ylongcyr = -10;
-Ylongdieresiscyr = -10;
-Yucyr = -10;
-Yukrcyr = -10;
-b.sc = -10;
-beta.sc = -10;
-d.sc = -10;
-dcaron.sc = -10;
-dcroat.sc = -10;
-ddotbelow.sc = -10;
-dlinebelow.sc = -10;
-dotlessi.sc = -10;
-dotlessj.sc = -19;
-dzcaron.sc = -10;
-e.sc = -10;
-eacute.sc = -10;
-ebreve.sc = -10;
-ecaron.sc = -10;
-ecedillabreve.sc = -10;
-ecircumflex.sc = -10;
-ecircumflexacute.sc = -10;
-ecircumflexdotbelow.sc = -10;
-ecircumflexgrave.sc = -10;
-ecircumflexhoi.sc = -10;
-ecircumflextilde.sc = -10;
-edblgrave.sc = -10;
-edieresis.sc = -10;
-edotaccent.sc = -10;
-edotbelow.sc = -10;
-egrave.sc = -10;
-ehoi.sc = -10;
-einvertedbreve.sc = -10;
-emacron.sc = -10;
-emacronacute.sc = -10;
-emacrongrave.sc = -10;
-encyr.sc = -10;
-eng.sc = -10;
-ensharptailcyr.sc = -10;
-entailcyr.sc = -10;
-eogonek.sc = -10;
-epsilon.sc = -10;
-epsilonacute.sc = -10;
-epsilonasper.sc = -10;
-epsilonasperacute.sc = -10;
-epsilonaspergrave.sc = -10;
-epsilongrave.sc = -10;
-epsilonlenis.sc = -10;
-epsilonlenisacute.sc = -10;
-epsilonlenisgrave.sc = -10;
-epsilontonos.sc = -10;
-ercyr.sc = -10;
-eta.sc = -10;
-etaacute.sc = -10;
-etaacuteiotasub.sc = -10;
-etaacuteiotasub.sc.ss05 = -10;
-etaasper.sc = -10;
-etaasperacute.sc = -10;
-etaasperacuteiotasub.sc = -10;
-etaasperacuteiotasub.sc.ss05 = -10;
-etaaspergrave.sc = -10;
-etaaspergraveiotasub.sc = -10;
-etaaspergraveiotasub.sc.ss05 = -10;
-etaasperiotasub.sc = -10;
-etaasperiotasub.sc.ss05 = -10;
-etaaspertilde.sc = -10;
-etaaspertildeiotasub.sc = -10;
-etaaspertildeiotasub.sc.ss05 = -10;
-etagrave.sc = -10;
-etagraveiotasub.sc = -10;
-etagraveiotasub.sc.ss05 = -10;
-etaiotasub.sc = -10;
-etaiotasub.sc.ss05 = -10;
-etalenis.sc = -10;
-etalenisacute.sc = -10;
-etalenisacuteiotasub.sc = -10;
-etalenisacuteiotasub.sc.ss05 = -10;
-etalenisgrave.sc = -10;
-etalenisgraveiotasub.sc = -10;
-etalenisgraveiotasub.sc.ss05 = -10;
-etalenisiotasub.sc = -10;
-etalenisiotasub.sc.ss05 = -10;
-etalenistilde.sc = -10;
-etalenistildeiotasub.sc = -10;
-etalenistildeiotasub.sc.ss05 = -10;
-etatilde.sc = -10;
-etatildeiotasub.sc = -10;
-etatildeiotasub.sc.ss05 = -10;
-etatonos.sc = -10;
-eth.sc = -10;
-etilde.sc = -10;
-f.sc = -10;
-gamma.sc = -10;
-getailcyr.sc = -10;
-gjecyr.sc = -10;
-h.sc = -10;
-hbar.sc = -10;
-hbrevebelow.sc = -10;
-hcircumflex.sc = -10;
-hdotbelow.sc = -10;
-i.loclTRK.sc = -10;
-i.sc = -10;
-iacute.sc = -10;
-iacute_j.loclNLD.sc = -10;
-ibreve.sc = -10;
-icaron.sc = -10;
-icircumflex.sc = -10;
-icyr.sc = -10;
-idblgrave.sc = -10;
-idieresis.sc = -10;
-idieresisacute.sc = -10;
-idieresiscyr.sc = -10;
-idotbelow.sc = -10;
-iebrevecyr.sc = -10;
-iecyr.sc = -10;
-iegravecyr.sc = -10;
-igrave.sc = -10;
-igravecyr.sc = -10;
-ihoi.sc = -10;
-iinvertedbreve.sc = -10;
-ij.sc = -10;
-imacron.sc = -10;
-imacroncyr.sc = -10;
-iocyr.sc = -10;
-iogonek.sc = -10;
-iota.sc = -10;
-iotaacute.sc = -10;
-iotaasper.sc = -10;
-iotaasperacute.sc = -10;
-iotaaspergrave.sc = -10;
-iotaaspertilde.sc = -10;
-iotabreve.sc = -10;
-iotadieresis.sc = -10;
-iotadieresisacute.sc = -10;
-iotadieresisgrave.sc = -10;
-iotadieresistilde.sc = -10;
-iotadieresistonos.sc = -10;
-iotagrave.sc = -10;
-iotalenis.sc = -10;
-iotalenisacute.sc = -10;
-iotalenisgrave.sc = -10;
-iotalenistilde.sc = -10;
-iotatilde.sc = -10;
-iotatonos.sc = -10;
-iotawithmacron.sc = -10;
-ishortcyr.sc = -10;
-itilde.sc = -10;
-iukrcyr.sc = -10;
-j.sc = -19;
-jcircumflex.sc = -19;
-jecyr.sc = -19;
-k.sc = -10;
-kaisymbol.sc = -10;
-kappa.sc = -10;
-kcommaaccent.sc = -10;
-kgreenlandic.sc = -10;
-kjecyr.sc = -10;
-l.sc = -10;
-lacute.sc = -10;
-lcaron.sc = -10;
-lcommaaccent.sc = -10;
-ldot.sc = -10;
-ldotbelow.sc = -10;
-lj.sc = -10;
-llinebelow.sc = -10;
-lslash.sc = -10;
-n.sc = -10;
-nacute.sc = -10;
-ncaron.sc = -10;
-ncommaaccent.sc = -10;
-ndot.sc = -10;
-ndotbelow.sc = -10;
-nj.sc = -10;
-nlinebelow.sc = -10;
-ntilde.sc = -10;
-nu.sc = -10;
-p.sc = -10;
-palochkacyr.sc = -10;
-petailcyr.sc = -10;
-pi.sc = -10;
-quoteright = -29;
-r.sc = -10;
-racute.sc = -10;
-rcaron.sc = -10;
-rcommaaccent.sc = -10;
-rdblgrave.sc = -10;
-rdotbelow.sc = -10;
-rho.sc = -10;
-rhoasper.sc = -10;
-rholenis.sc = -10;
-rinvertedbreve.sc = -10;
-rlinebelow.sc = -10;
-shchacyr.sc = -10;
-thorn.sc = -10;
-vecyr.sc = -10;
-ylongdieresiscyr.sc = -10;
-yucyr.sc = -10;
-yukrcyr.sc = -10;
-};
-a.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-aacute = {
-quoteright = -29;
-};
-aacute.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-abreve = {
-quoteright = -29;
-};
-abreve.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-abreveacute = {
-quoteright = -29;
-};
-abreveacute.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-abrevecyr = {
-quoteright = -29;
-};
-abrevecyr.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-abrevedotbelow = {
-quoteright = -29;
-};
-abrevedotbelow.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-abrevegrave = {
-quoteright = -29;
-};
-abrevegrave.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-abrevehoi = {
-quoteright = -29;
-};
-abrevehoi.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-abrevetilde = {
-quoteright = -29;
-};
-abrevetilde.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-acaron = {
-quoteright = -29;
-};
-acaron.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-acircumflex = {
-quoteright = -29;
-};
-acircumflex.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-acircumflexacute = {
-quoteright = -29;
-};
-acircumflexacute.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-acircumflexdotbelow = {
-quoteright = -29;
-};
-acircumflexdotbelow.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-acircumflexgrave = {
-quoteright = -29;
-};
-acircumflexgrave.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-acircumflexhoi = {
-quoteright = -29;
-};
-acircumflexhoi.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-acircumflextilde = {
-quoteright = -29;
-};
-acircumflextilde.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-acutecomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-acutecomb.case = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-acyr = {
-quoteright = -29;
-};
-acyr.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-adblgrave.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-adieresis = {
-quoteright = -29;
-};
-adieresis.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-adieresiscyr = {
-quoteright = -29;
-};
-adieresiscyr.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-adotbelow = {
-quoteright = -29;
-};
-adotbelow.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-agrave = {
-quoteright = -29;
-};
-agrave.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-ahoi = {
-quoteright = -29;
-};
-ahoi.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-ainvertedbreve.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alpha = {
-quoteright = -29;
-};
-alpha.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaacute = {
-quoteright = -29;
-};
-alphaacute.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaacuteiotasub = {
-quoteright = -29;
-};
-alphaacuteiotasub.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaacuteiotasub.sc.ss05 = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaasper = {
-quoteright = -29;
-};
-alphaasper.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaasperacute = {
-quoteright = -29;
-};
-alphaasperacute.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaasperacuteiotasub = {
-quoteright = -29;
-};
-alphaasperacuteiotasub.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaasperacuteiotasub.sc.ss05 = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaaspergrave = {
-quoteright = -29;
-};
-alphaaspergrave.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaaspergraveiotasub = {
-quoteright = -29;
-};
-alphaaspergraveiotasub.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaaspergraveiotasub.sc.ss05 = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaasperiotasub = {
-quoteright = -29;
-};
-alphaasperiotasub.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaasperiotasub.sc.ss05 = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaaspertilde = {
-quoteright = -29;
-};
-alphaaspertilde.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaaspertildeiotasub = {
-quoteright = -29;
-};
-alphaaspertildeiotasub.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaaspertildeiotasub.sc.ss05 = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphabreve = {
-quoteright = -29;
-};
-alphabreve.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphagrave = {
-quoteright = -29;
-};
-alphagrave.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphagraveiotasub = {
-quoteright = -29;
-};
-alphagraveiotasub.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphagraveiotasub.sc.ss05 = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaiotasub = {
-quoteright = -29;
-};
-alphaiotasub.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphaiotasub.sc.ss05 = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphalenis = {
-quoteright = -29;
-};
-alphalenis.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphalenisacute = {
-quoteright = -29;
-};
-alphalenisacute.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphalenisacuteiotasub = {
-quoteright = -29;
-};
-alphalenisacuteiotasub.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphalenisacuteiotasub.sc.ss05 = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphalenisgrave = {
-quoteright = -29;
-};
-alphalenisgrave.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphalenisgraveiotasub = {
-quoteright = -29;
-};
-alphalenisgraveiotasub.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphalenisgraveiotasub.sc.ss05 = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphalenisiotasub = {
-quoteright = -29;
-};
-alphalenisiotasub.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphalenisiotasub.sc.ss05 = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphalenistilde = {
-quoteright = -29;
-};
-alphalenistilde.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphalenistildeiotasub = {
-quoteright = -29;
-};
-alphalenistildeiotasub.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphalenistildeiotasub.sc.ss05 = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphatilde = {
-quoteright = -29;
-};
-alphatilde.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphatildeiotasub = {
-quoteright = -29;
-};
-alphatildeiotasub.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphatildeiotasub.sc.ss05 = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphatonos.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-alphawithmacron = {
-quoteright = -29;
-};
-alphawithmacron.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-amacron = {
-quoteright = -29;
-};
-amacron.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-aogonek = {
-quoteright = -29;
-};
-aogonek.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-aring = {
-quoteright = -29;
-};
-aring.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-aringacute = {
-quoteright = -29;
-};
-aringacute.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-asterisk = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-at = {
-Yatcyr = -19;
-};
-atilde = {
-quoteright = -29;
-};
-atilde.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-b = {
-quoteright = -19;
-x = -14;
-};
-becyr = {
-quoteright = -19;
-x = -14;
-};
-becyr.loclSRB = {
-quoteright = -19;
-x = -14;
-};
-bracketleft = {
-Decyr = 30;
-Elcyr = 30;
-Ljecyr = 30;
-};
-brevecomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-brevecomb.case = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-brevecomb_acutecomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-brevecomb_gravecomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-bullet = {
-space = -19;
-};
-caroncomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-caroncomb.alt = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-caroncomb.case = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-cedillacomb = {
-space = -19;
-};
-checyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-chedieresiscyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-chekhakascyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-chetailcyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-chetailcyr.sc = {
-bracketright = 30;
-colon = 40;
-parenright = 40;
-semicolon = 40;
-};
-chevertcyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-circumflexcomb_acutecomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-circumflexcomb_gravecomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-comma = {
-space = -19;
-};
-copyright = {
-Yatcyr = -19;
-};
-d.sc = {
-Yatcyr = -19;
-};
-dcaron.sc = {
-Yatcyr = -19;
-};
-dcroat.sc = {
-Yatcyr = -19;
-};
-ddotbelow.sc = {
-Yatcyr = -19;
-};
-decyr = {
-"@MMK_R_hbar" = -30;
-};
-degree = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-delta = {
-quoteright = -19;
-x = -14;
-};
-delta.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-dieresiscomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-dieresiscomb.i = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-dieresiscomb_acutecomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-dieresiscomb_acutecomb.case = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-dieresiscomb_caroncomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-dieresiscomb_gravecomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-dieresiscomb_gravecomb.case = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-dieresiscomb_macroncomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-dlinebelow.sc = {
-Yatcyr = -19;
-};
-dzhecyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-efcyr = {
-quoteright = -19;
-x = -14;
-};
-elcyr = {
-"@MMK_R_hbar" = -30;
-};
-ellipsis = {
-space = -19;
-};
-emcyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-emdash = {
-space = -19;
-};
-encyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-endash = {
-space = -19;
-};
-ensharptailcyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-ensharptailcyr.sc = {
-bracketright = 30;
-colon = 40;
-parenright = 40;
-semicolon = 40;
-};
-entailcyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-entailcyr.sc = {
-bracketright = 30;
-colon = 40;
-parenright = 40;
-semicolon = 40;
-};
-ercyr = {
-quoteright = -19;
-x = -14;
-};
-ereversedcyr = {
-quoteright = -19;
-x = -14;
-};
-ereversedcyr.sc = {
-Yatcyr = -19;
-};
-estimated = {
-Yatcyr = -19;
-};
-eta = {
-quoteright = -29;
-};
-etaacute = {
-quoteright = -29;
-};
-etaacuteiotasub = {
-quoteright = -29;
-};
-etaasper = {
-quoteright = -29;
-};
-etaasperacute = {
-quoteright = -29;
-};
-etaasperacuteiotasub = {
-quoteright = -29;
-};
-etaaspergrave = {
-quoteright = -29;
-};
-etaaspergraveiotasub = {
-quoteright = -29;
-};
-etaasperiotasub = {
-quoteright = -29;
-};
-etaaspertilde = {
-quoteright = -29;
-};
-etaaspertildeiotasub = {
-quoteright = -29;
-};
-etagrave = {
-quoteright = -29;
-};
-etagraveiotasub = {
-quoteright = -29;
-};
-etaiotasub = {
-quoteright = -29;
-};
-etalenis = {
-quoteright = -29;
-};
-etalenisacute = {
-quoteright = -29;
-};
-etalenisacuteiotasub = {
-quoteright = -29;
-};
-etalenisgrave = {
-quoteright = -29;
-};
-etalenisgraveiotasub = {
-quoteright = -29;
-};
-etalenisiotasub = {
-quoteright = -29;
-};
-etalenistilde = {
-quoteright = -29;
-};
-etalenistildeiotasub = {
-quoteright = -29;
-};
-etatilde = {
-quoteright = -29;
-};
-etatildeiotasub = {
-quoteright = -29;
-};
-etatonos = {
-quoteright = -29;
-};
-eth.sc = {
-Yatcyr = -19;
-};
-exclamdown = {
-Upsilon = -48;
-Upsilonacute = -48;
-Upsilonasper = -48;
-Upsilonasperacute = -48;
-Upsilonaspergrave = -48;
-Upsilonaspertilde = -48;
-Upsilonbreve = -48;
-Upsilondieresis = -48;
-Upsilongrave = -48;
-Upsilonwithmacron = -48;
-Ustraightcyr = -48;
-Ustraightstrokecyr = -48;
-Y = -48;
-Yacute = -48;
-Ycircumflex = -48;
-Ydieresis = -48;
-Ydotbelow = -48;
-Ygrave = -48;
-Yhoi = -48;
-Ytilde = -48;
-uacutedblcyr.sc = -48;
-udieresiscyr.sc = -48;
-umacroncyr.sc = -48;
-upsilon.sc = -48;
-upsilonacute.sc = -48;
-upsilonasper.sc = -48;
-upsilonasperacute.sc = -48;
-upsilonaspergrave.sc = -48;
-upsilonaspertilde.sc = -48;
-upsilonbreve.sc = -48;
-upsilondieresis.sc = -48;
-upsilondieresisacute.sc = -48;
-upsilondieresisgrave.sc = -48;
-upsilondieresistilde.sc = -48;
-upsilondieresistonos.sc = -48;
-upsilongrave.sc = -48;
-upsilonlenis.sc = -48;
-upsilonlenisacute.sc = -48;
-upsilonlenisgrave.sc = -48;
-upsilonlenistilde.sc = -48;
-upsilontilde.sc = -48;
-upsilontonos.sc = -48;
-upsilonwithmacron.sc = -48;
-ushortcyr.sc = -48;
-y.sc = -48;
-yacute.sc = -48;
-ycircumflex.sc = -48;
-ydieresis.sc = -48;
-ydot.sc = -48;
-ydotbelow.sc = -48;
-ygrave.sc = -48;
-yhoi.sc = -48;
-ymacron.sc = -48;
-ytilde.sc = -48;
-};
-f = {
-"@MMK_R_A2" = -10;
-"@MMK_R_B2" = 38;
-"@MMK_R_C2" = 29;
-"@MMK_R_J" = 76;
-"@MMK_R_S2" = 38;
-"@MMK_R_T2" = 76;
-"@MMK_R_U2" = 76;
-"@MMK_R_V2" = 76;
-"@MMK_R_X" = 76;
-"@MMK_R_Y2" = 76;
-"@MMK_R_Z2" = 67;
-"@MMK_R_comma2" = -29;
-"@MMK_R_tilde2" = 124;
-"@MMK_R_v2" = 29;
-"@MMK_R_yacute2" = 38;
-exclam = 95;
-question = 95;
-};
-firstofchinese = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-fitacyr = {
-quoteright = -19;
-x = -14;
-};
-gamma.sc = {
-Decyr = -73;
-colon = -80;
-semicolon = -80;
-};
-gecyr = {
-quoteright = -19;
-x = -14;
-};
-gehookcyr = {
-"@MMK_R_hbar" = -20;
-};
-gestrokecyr = {
-quoteright = -19;
-x = -14;
-};
-getailcyr = {
-quoteright = -19;
-x = -14;
-};
-getailcyr.sc = {
-Decyr = -73;
-colon = -80;
-semicolon = -80;
-};
-gjecyr = {
-quoteright = -19;
-x = -14;
-};
-gjecyr.loclMKD = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-gjecyr.sc = {
-Decyr = -73;
-colon = -80;
-semicolon = -80;
-};
-h = {
-quoteright = -29;
-};
-hardcyr = {
-x = -20;
-};
-hbar = {
-quoteright = -29;
-};
-hcircumflex = {
-quoteright = -29;
-};
-hookabovecomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-hungarumlautcomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-hungarumlautcomb.case = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-hyphen = {
-space = -19;
-};
-icyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-idieresiscyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-igravecyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-imacroncyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iota = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotaacute = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotaadscript = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotaasper = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotaasperacute = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotaaspergrave = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotaaspertilde = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotabreve = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotadieresisacute = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotadieresisgrave = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotadieresistilde = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotagrave = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotalenis = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotalenisacute = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotalenisgrave = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotalenistilde = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotatilde = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-iotawithmacron = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-ishortcyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-kappa.sups = {
-"@MMK_R_xi.sups2" = -10;
-Tau.sups = -43;
-Upsilon.sups = -43;
-};
-lambda.sc = {
-Tshecyr = -43;
-Yatcyr = -37;
-};
-ljecyr = {
-x = -20;
-};
-m = {
-quoteright = -29;
-};
-macroncomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-macroncomb.i = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-minute = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-mu = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-n = {
-quoteright = -29;
-};
-nacute = {
-quoteright = -29;
-};
-ncaron = {
-quoteright = -29;
-};
-ncommaaccent = {
-quoteright = -29;
-};
-njecyr = {
-x = -20;
-};
-ntilde = {
-quoteright = -29;
-};
-o = {
-quoteright = -19;
-x = -14;
-};
-o.sc = {
-Yatcyr = -19;
-};
-oacute = {
-quoteright = -19;
-x = -14;
-};
-oacute.sc = {
-Yatcyr = -19;
-};
-obarcyr = {
-quoteright = -19;
-x = -14;
-};
-obarcyr.sc = {
-Yatcyr = -19;
-};
-obreve = {
-quoteright = -19;
-x = -14;
-};
-obreve.sc = {
-Yatcyr = -19;
-};
-ocaron = {
-quoteright = -19;
-x = -14;
-};
-ocaron.sc = {
-Yatcyr = -19;
-};
-ocircumflex = {
-quoteright = -19;
-x = -14;
-};
-ocircumflex.sc = {
-Yatcyr = -19;
-};
-ocircumflexacute = {
-quoteright = -19;
-x = -14;
-};
-ocircumflexacute.sc = {
-Yatcyr = -19;
-};
-ocircumflexdotbelow = {
-quoteright = -19;
-x = -14;
-};
-ocircumflexdotbelow.sc = {
-Yatcyr = -19;
-};
-ocircumflexgrave = {
-quoteright = -19;
-x = -14;
-};
-ocircumflexgrave.sc = {
-Yatcyr = -19;
-};
-ocircumflexhoi = {
-quoteright = -19;
-x = -14;
-};
-ocircumflexhoi.sc = {
-Yatcyr = -19;
-};
-ocircumflextilde = {
-quoteright = -19;
-x = -14;
-};
-ocircumflextilde.sc = {
-Yatcyr = -19;
-};
-ocyr = {
-quoteright = -19;
-x = -14;
-};
-ocyr.sc = {
-Yatcyr = -19;
-};
-odblgrave.sc = {
-Yatcyr = -19;
-};
-odieresis = {
-quoteright = -19;
-x = -14;
-};
-odieresis.sc = {
-Yatcyr = -19;
-};
-odieresiscyr = {
-quoteright = -19;
-x = -14;
-};
-odieresiscyr.sc = {
-Yatcyr = -19;
-};
-odieresismacron.sc = {
-Yatcyr = -19;
-};
-odotaccentmacron.sc = {
-Yatcyr = -19;
-};
-odotbelow = {
-quoteright = -19;
-x = -14;
-};
-odotbelow.sc = {
-Yatcyr = -19;
-};
-ogonekcomb = {
-space = -19;
-};
-ograve = {
-quoteright = -19;
-x = -14;
-};
-ograve.sc = {
-Yatcyr = -19;
-};
-ohoi = {
-quoteright = -19;
-x = -14;
-};
-ohoi.sc = {
-Yatcyr = -19;
-};
-ohorn = {
-quoteright = -19;
-x = -14;
-};
-ohornacute = {
-quoteright = -19;
-x = -14;
-};
-ohornacute.sc = {
-Yatcyr = -19;
-};
-ohorndotbelow = {
-quoteright = -19;
-x = -14;
-};
-ohorndotbelow.sc = {
-Yatcyr = -19;
-};
-ohorngrave.sc = {
-Yatcyr = -19;
-};
-ohornhoi = {
-quoteright = -19;
-x = -14;
-};
-ohornhoi.sc = {
-Yatcyr = -19;
-};
-ohorntilde = {
-quoteright = -19;
-x = -14;
-};
-ohorntilde.sc = {
-Yatcyr = -19;
-};
-ohungarumlaut = {
-quoteright = -19;
-x = -14;
-};
-ohungarumlaut.sc = {
-Yatcyr = -19;
-};
-oinvertedbreve.sc = {
-Yatcyr = -19;
-};
-omacron = {
-quoteright = -19;
-x = -14;
-};
-omacron.sc = {
-Yatcyr = -19;
-};
-omacronacute.sc = {
-Yatcyr = -19;
-};
-omacrongrave.sc = {
-Yatcyr = -19;
-};
-omicron = {
-quoteright = -19;
-x = -14;
-};
-omicron.sc = {
-Yatcyr = -19;
-};
-omicronacute = {
-quoteright = -19;
-x = -14;
-};
-omicronacute.sc = {
-Yatcyr = -19;
-};
-omicronasper = {
-quoteright = -19;
-x = -14;
-};
-omicronasper.sc = {
-Yatcyr = -19;
-};
-omicronasperacute = {
-quoteright = -19;
-x = -14;
-};
-omicronasperacute.sc = {
-Yatcyr = -19;
-};
-omicronaspergrave = {
-quoteright = -19;
-x = -14;
-};
-omicronaspergrave.sc = {
-Yatcyr = -19;
-};
-omicrongrave = {
-quoteright = -19;
-x = -14;
-};
-omicrongrave.sc = {
-Yatcyr = -19;
-};
-omicronlenis = {
-quoteright = -19;
-x = -14;
-};
-omicronlenis.sc = {
-Yatcyr = -19;
-};
-omicronlenisacute = {
-quoteright = -19;
-x = -14;
-};
-omicronlenisacute.sc = {
-Yatcyr = -19;
-};
-omicronlenisgrave = {
-quoteright = -19;
-x = -14;
-};
-omicronlenisgrave.sc = {
-Yatcyr = -19;
-};
-omicrontonos = {
-quoteright = -19;
-x = -14;
-};
-omicrontonos.sc = {
-Yatcyr = -19;
-};
-onedotenleader = {
-space = -19;
-};
-oogonek = {
-quoteright = -19;
-x = -14;
-};
-oogonek.sc = {
-Yatcyr = -19;
-};
-oslash = {
-quoteright = -19;
-x = -14;
-};
-oslash.sc = {
-Yatcyr = -19;
-};
-oslashacute = {
-quoteright = -19;
-x = -14;
-};
-oslashacute.BRACKET = {
-quoteright = -19;
-x = -14;
-};
-oslashacute.sc = {
-Yatcyr = -19;
-};
-oslashacute.sc.BRACKET = {
-Yatcyr = -19;
-};
-otilde = {
-quoteright = -19;
-x = -14;
-};
-otilde.sc = {
-Yatcyr = -19;
-};
-otildeacute.sc = {
-Yatcyr = -19;
-};
-otildedieresis.sc = {
-Yatcyr = -19;
-};
-otildemacron.sc = {
-Yatcyr = -19;
-};
-p = {
-quoteright = -19;
-x = -14;
-};
-pecyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-pecyr.loclSRB = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-period = {
-space = -19;
-};
-periodcentered = {
-space = -19;
-};
-petailcyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-phi = {
-quoteright = -19;
-x = -14;
-};
-phi.sc = {
-Yatcyr = -19;
-};
-q.sc = {
-Yatcyr = -19;
-};
-question = {
-Etaasperacuteiotasub.ss05 = 50;
-Etaaspergraveiotasub.ss05 = 50;
-Etaasperiotasub.ss05 = 50;
-Etaaspertildeiotasub.ss05 = 50;
-Etalenisacuteiotasub.ss05 = 50;
-Etalenisgraveiotasub.ss05 = 50;
-Etalenisiotasub.ss05 = 50;
-Etalenistildeiotasub.ss05 = 50;
-Saltillo = 50;
-acutecomb = 50;
-acutecomb.case = 50;
-asterisk = 50;
-brevecomb = 50;
-brevecomb.case = 50;
-brevecomb_acutecomb = 50;
-brevecomb_gravecomb = 50;
-caroncomb = 50;
-caroncomb.alt = 50;
-caroncomb.case = 50;
-circumflexcomb_acutecomb = 50;
-circumflexcomb_gravecomb = 50;
-degree = 50;
-dieresiscomb = 50;
-dieresiscomb.i = 50;
-dieresiscomb_acutecomb = 50;
-dieresiscomb_acutecomb.case = 50;
-dieresiscomb_caroncomb = 50;
-dieresiscomb_gravecomb = 50;
-dieresiscomb_gravecomb.case = 50;
-dieresiscomb_macroncomb = 50;
-firstofchinese = 50;
-hookabovecomb = 50;
-hungarumlautcomb = 50;
-hungarumlautcomb.case = 50;
-macroncomb = 50;
-macroncomb.i = 50;
-minute = 50;
-quotedbl = 50;
-quotedblleft = 50;
-quotedblright = 50;
-quoteleft = 50;
-quoteright = 50;
-quotesingle = 50;
-registered = 50;
-ringcomb = 50;
-second = 50;
-tilde = 50;
-tildecomb = 50;
-tildecomb.i = 50;
-trademark = 50;
-};
-questiondown = {
-Djecyr = -57;
-Hardcyr = -57;
-Kabashkcyr = -57;
-T = -57;
-Tau = -57;
-Tbar = -57;
-Tcaron = -57;
-Tcedilla = -57;
-Tcommaaccent = -57;
-Tecyr = -57;
-Tshecyr = -57;
-Upsilon = -58;
-Upsilonacute = -58;
-Upsilonasper = -58;
-Upsilonasperacute = -58;
-Upsilonaspergrave = -58;
-Upsilonaspertilde = -58;
-Upsilonbreve = -58;
-Upsilondieresis = -58;
-Upsilongrave = -58;
-Upsilonwithmacron = -58;
-Ustraightcyr = -58;
-Ustraightstrokecyr = -58;
-Y = -58;
-Yacute = -58;
-Yatcyr = -57;
-Ycircumflex = -58;
-Ydieresis = -58;
-Ydotbelow = -58;
-Ygrave = -58;
-Yhoi = -58;
-Ytilde = -58;
-t.sc = -57;
-tau.sc = -57;
-tbar.sc = -57;
-tcaron.sc = -57;
-tcedilla.sc = -57;
-tcommaaccent.sc = -57;
-tdieresis.sc = -57;
-tdotbelow.sc = -57;
-tecyr.sc = -57;
-tlinebelow.sc = -57;
-uacutedblcyr.sc = -58;
-udieresiscyr.sc = -58;
-umacroncyr.sc = -58;
-upsilon.sc = -58;
-upsilonacute.sc = -58;
-upsilonasper.sc = -58;
-upsilonasperacute.sc = -58;
-upsilonaspergrave.sc = -58;
-upsilonaspertilde.sc = -58;
-upsilonbreve.sc = -58;
-upsilondieresis.sc = -58;
-upsilondieresisacute.sc = -58;
-upsilondieresisgrave.sc = -58;
-upsilondieresistilde.sc = -58;
-upsilondieresistonos.sc = -58;
-upsilongrave.sc = -58;
-upsilonlenis.sc = -58;
-upsilonlenisacute.sc = -58;
-upsilonlenisgrave.sc = -58;
-upsilonlenistilde.sc = -58;
-upsilontilde.sc = -58;
-upsilontonos.sc = -58;
-upsilonwithmacron.sc = -58;
-ushortcyr.sc = -58;
-y.sc = -58;
-yacute.sc = -58;
-ycircumflex.sc = -58;
-ydieresis.sc = -58;
-ydot.sc = -58;
-ydotbelow.sc = -58;
-ygrave.sc = -58;
-yhoi.sc = -58;
-ymacron.sc = -58;
-ytilde.sc = -58;
-};
-quotedbl = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-quotedblbase = {
-space = -19;
-};
-quotedblleft = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-quotedblright = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-quoteleft = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-quoteright = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-quotesinglbase = {
-space = -19;
-};
-quotesingle = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-registered = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-rho = {
-quoteright = -19;
-x = -14;
-};
-rhoasper = {
-quoteright = -19;
-x = -14;
-};
-rholenis = {
-quoteright = -19;
-x = -14;
-};
-ringcomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-schwa = {
-quoteright = -19;
-x = -14;
-};
-schwa.sc = {
-Yatcyr = -19;
-};
-schwacyr = {
-quoteright = -19;
-x = -14;
-};
-second = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-shacyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-shchacyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-shchacyr.sc = {
-bracketright = 30;
-colon = 40;
-parenright = 40;
-semicolon = 40;
-};
-shhacyr = {
-quoteright = -29;
-};
-softcyr = {
-x = -20;
-};
-softcyr.cond = {
-x = -20;
-};
-softhyphen = {
-space = -19;
-};
-space = {
-Etaasperacuteiotasub.ss05 = -19;
-Etaaspergraveiotasub.ss05 = -19;
-Etaasperiotasub.ss05 = -19;
-Etaaspertildeiotasub.ss05 = -19;
-Etalenisacuteiotasub.ss05 = -19;
-Etalenisgraveiotasub.ss05 = -19;
-Etalenisiotasub.ss05 = -19;
-Etalenistildeiotasub.ss05 = -19;
-Saltillo = -19;
-acutecomb = -19;
-acutecomb.case = -19;
-asterisk = -19;
-brevecomb = -19;
-brevecomb.case = -19;
-brevecomb_acutecomb = -19;
-brevecomb_gravecomb = -19;
-bullet = -19;
-caroncomb = -19;
-caroncomb.alt = -19;
-caroncomb.case = -19;
-cedillacomb = -19;
-circumflexcomb_acutecomb = -19;
-circumflexcomb_gravecomb = -19;
-comma = -19;
-degree = -19;
-dieresiscomb = -19;
-dieresiscomb.i = -19;
-dieresiscomb_acutecomb = -19;
-dieresiscomb_acutecomb.case = -19;
-dieresiscomb_caroncomb = -19;
-dieresiscomb_gravecomb = -19;
-dieresiscomb_gravecomb.case = -19;
-dieresiscomb_macroncomb = -19;
-ellipsis = -19;
-emdash = -19;
-endash = -19;
-firstofchinese = -19;
-hookabovecomb = -19;
-hungarumlautcomb = -19;
-hungarumlautcomb.case = -19;
-hyphen = -19;
-macroncomb = -19;
-macroncomb.i = -19;
-minute = -19;
-ogonekcomb = -19;
-onedotenleader = -19;
-period = -19;
-periodcentered = -19;
-quotedbl = -19;
-quotedblbase = -19;
-quotedblleft = -19;
-quotedblright = -19;
-quoteleft = -19;
-quoteright = -19;
-quotesinglbase = -19;
-quotesingle = -19;
-registered = -19;
-ringcomb = -19;
-second = -19;
-softhyphen = -19;
-tilde = -19;
-tildecomb = -19;
-tildecomb.i = -19;
-trademark = -19;
-twodotenleader = -19;
-underscore = -19;
-};
-t.sc = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-tau.sc = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-tbar.sc = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-tcaron.sc = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-tcedilla.sc = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-tcommaaccent.sc = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-tdieresis.sc = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-tdotbelow.sc = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-tecyr = {
-quoteright = -29;
-};
-tecyr.loclSRB = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-tecyr.sc = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-theta.sc = {
-Yatcyr = -19;
-};
-thorn = {
-quoteright = -19;
-x = -14;
-};
-tilde = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-tildecomb = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-tildecomb.i = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-tlinebelow.sc = {
-Decyr = -80;
-colon = -20;
-semicolon = -20;
-};
-trademark = {
-Decyr = -78;
-questiondown = -50;
-space = -20;
-};
-tsecyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-tshecyr = {
-quoteright = -29;
-};
-twodotenleader = {
-space = -19;
-};
-u = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-uacute = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-ubreve = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-ucaron = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-ucircumflex = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-udieresis = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-udieresisacute = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-udieresiscaron = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-udieresisgrave = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-udieresismacron = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-udotbelow = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-ugrave = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-uhoi = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-uhorn = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-uhornacute = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-uhorndotbelow = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-uhorngrave = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-uhornhoi = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-uhorntilde = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-uhungarumlaut = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-umacron = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-underscore = {
-space = -19;
-};
-uogonek = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-uring = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-utilde = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-v.sc = {
-Decyr = -40;
-};
-yacyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-yatcyr = {
-x = -20;
-};
-ylongcyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-ylongdieresiscyr = {
-Tshecyr = -57;
-Yatcyr = -57;
-};
-yucyr = {
-quoteright = -19;
-x = -14;
-};
-yucyr.sc = {
-Yatcyr = -19;
-};
-};
-"789C1080-F92A-44E1-A6A4-F5C9FEE0E400" = {
+"5DF7C2A1-46DB-4C62-B192-BDBF45A08E68" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -10;
 "@MMK_R_T2" = -57;
@@ -11979,7 +8455,3531 @@ Decyr = -23;
 Yatcyr = -12;
 };
 };
-"D5071F36-EBB7-4621-927D-B6E908C39701" = {
+"AD20C1EC-521C-4BF7-AAE3-FC850D8A306C" = {
+"@MMK_L_A" = {
+"@MMK_R_C2" = -19;
+"@MMK_R_T2" = -43;
+"@MMK_R_U2" = -29;
+"@MMK_R_V2" = -41;
+"@MMK_R_X" = -20;
+"@MMK_R_Y2" = -62;
+"@MMK_R_a2" = -14;
+"@MMK_R_b2" = 19;
+"@MMK_R_bullet2" = -38;
+"@MMK_R_p" = -19;
+"@MMK_R_t2" = -19;
+"@MMK_R_tilde2" = -67;
+"@MMK_R_uni0427" = -19;
+"@MMK_R_v2" = -29;
+};
+"@MMK_L_Alpha.sups" = {
+"@MMK_R_Phi.sups2" = -14;
+"@MMK_R_nu.sups2" = -22;
+"@MMK_R_psi.sups" = -14;
+"@MMK_R_rho.sups2" = -14;
+"@MMK_R_xi.sups2" = -11;
+Tau.sups = -31;
+Upsilon.sups = -45;
+};
+"@MMK_L_B" = {
+"@MMK_R_comma2" = -19;
+"@MMK_R_tilde2" = -19;
+};
+"@MMK_L_C" = {
+"@MMK_R_a2" = -10;
+"@MMK_R_bullet2" = -19;
+"@MMK_R_g2" = -10;
+"@MMK_R_m" = -10;
+"@MMK_R_t2" = -10;
+"@MMK_R_v2" = -10;
+Efcyr = -30;
+};
+"@MMK_L_Chi.sups" = {
+"@MMK_R_Phi.sups2" = -14;
+"@MMK_R_nu.sups2" = -22;
+"@MMK_R_psi.sups" = -11;
+"@MMK_R_xi.sups2" = -14;
+};
+"@MMK_L_D" = {
+"@MMK_R_A2" = -19;
+"@MMK_R_T2" = -19;
+"@MMK_R_V2" = -29;
+"@MMK_R_X" = -19;
+"@MMK_R_Y2" = -43;
+"@MMK_R_comma2" = -29;
+"@MMK_R_j2" = 10;
+"@MMK_R_tilde2" = -10;
+"@MMK_R_yacute2" = 19;
+Xi = -10;
+};
+"@MMK_L_E" = {
+"@MMK_R_C2" = -10;
+"@MMK_R_a2" = -10;
+"@MMK_R_bullet2" = -10;
+"@MMK_R_f" = -10;
+"@MMK_R_g2" = -10;
+"@MMK_R_m" = -10;
+"@MMK_R_t2" = -10;
+"@MMK_R_v2" = -10;
+};
+"@MMK_L_F" = {
+"@MMK_R_A2" = -24;
+"@MMK_R_J" = 38;
+"@MMK_R_M2" = -10;
+"@MMK_R_T2" = 29;
+"@MMK_R_V2" = 29;
+"@MMK_R_X" = 29;
+"@MMK_R_Y2" = 38;
+"@MMK_R_a2" = -13;
+"@MMK_R_comma2" = -95;
+"@MMK_R_g2" = -40;
+"@MMK_R_m" = -10;
+"@MMK_R_p" = -10;
+"@MMK_R_s2" = -19;
+"@MMK_R_t2" = -19;
+"@MMK_R_tilde2" = 19;
+"@MMK_R_uni0436" = -10;
+};
+"@MMK_L_G" = {
+"@MMK_R_a2" = -10;
+"@MMK_R_b2" = -10;
+"@MMK_R_g2" = -20;
+"@MMK_R_m" = -19;
+"@MMK_R_t2" = -10;
+"@MMK_R_v2" = -19;
+};
+"@MMK_L_Gamma" = {
+"@MMK_R_A2" = -82;
+"@MMK_R_C2" = -55;
+"@MMK_R_T2" = 10;
+"@MMK_R_X" = -50;
+"@MMK_R_comma2" = -150;
+"@MMK_R_uni01B7" = -20;
+"@MMK_R_uni03A9" = -24;
+"@MMK_R_uni0414_2" = -90;
+Efcyr = -53;
+};
+"@MMK_L_H" = {
+"@MMK_R_a2" = -19;
+"@MMK_R_bullet2" = -29;
+"@MMK_R_comma2" = -29;
+"@MMK_R_g2" = -15;
+"@MMK_R_t2" = -10;
+"@MMK_R_v2" = -19;
+};
+"@MMK_L_K" = {
+"@MMK_R_C2" = -19;
+"@MMK_R_T2" = -40;
+"@MMK_R_a2" = -19;
+"@MMK_R_bullet2" = -57;
+"@MMK_R_p" = -19;
+"@MMK_R_t2" = -14;
+"@MMK_R_uni0427" = -60;
+"@MMK_R_v2" = -29;
+"@MMK_R_yacute2" = -29;
+Efcyr = -30;
+};
+"@MMK_L_L" = {
+"@MMK_R_C2" = -24;
+"@MMK_R_T2" = -73;
+"@MMK_R_V2" = -59;
+"@MMK_R_Y2" = -71;
+"@MMK_R_tilde2" = -86;
+"@MMK_R_uni0427" = -60;
+"@MMK_R_uni0436" = 10;
+"@MMK_R_v2" = -29;
+"@MMK_R_yacute2" = -29;
+};
+"@MMK_L_M" = {
+"@MMK_R_V2" = -10;
+"@MMK_R_a2" = -10;
+"@MMK_R_bullet2" = -29;
+"@MMK_R_t2" = -10;
+"@MMK_R_v2" = -14;
+};
+"@MMK_L_Nu.sups" = {
+"@MMK_R_nu.sups2" = -14;
+"@MMK_R_xi.sups2" = -14;
+};
+"@MMK_L_P" = {
+"@MMK_R_A2" = -57;
+"@MMK_R_V2" = -10;
+"@MMK_R_a2" = -18;
+"@MMK_R_bullet2" = -38;
+"@MMK_R_comma2" = -143;
+"@MMK_R_g2" = -30;
+"@MMK_R_m" = -8;
+"@MMK_R_p" = -8;
+"@MMK_R_s2" = -10;
+"@MMK_R_t2" = -8;
+"@MMK_R_uni0414_2" = -30;
+};
+"@MMK_L_Phi.sups" = {
+"@MMK_R_Alpha.sups2" = -14;
+"@MMK_R_Chi.sups2" = -14;
+Tau.sups = -14;
+Upsilon.sups = -31;
+};
+"@MMK_L_R" = {
+"@MMK_R_C2" = -10;
+"@MMK_R_T2" = -10;
+"@MMK_R_U2" = -10;
+"@MMK_R_V2" = -19;
+"@MMK_R_Y2" = -27;
+"@MMK_R_a2" = -29;
+"@MMK_R_bullet2" = -38;
+"@MMK_R_g2" = -10;
+"@MMK_R_p" = -19;
+"@MMK_R_t2" = -10;
+"@MMK_R_v2" = -10;
+"@MMK_R_yacute2" = -10;
+Efcyr = -30;
+};
+"@MMK_L_S" = {
+"@MMK_R_T2" = -10;
+"@MMK_R_a2" = -10;
+"@MMK_R_comma2" = -19;
+"@MMK_R_m" = -10;
+"@MMK_R_uni0436" = -19;
+"@MMK_R_v2" = -19;
+};
+"@MMK_L_T" = {
+"@MMK_R_A2" = -43;
+"@MMK_R_C2" = -19;
+"@MMK_R_S2" = -10;
+"@MMK_R_a2" = -57;
+"@MMK_R_bullet2" = -67;
+"@MMK_R_comma2" = -76;
+"@MMK_R_g2" = -60;
+"@MMK_R_m" = -57;
+"@MMK_R_p" = -57;
+"@MMK_R_s2" = -57;
+"@MMK_R_t2" = -57;
+"@MMK_R_tau" = -19;
+"@MMK_R_uni0414_2" = -80;
+"@MMK_R_uni0436" = -57;
+"@MMK_R_v2" = -57;
+"@MMK_R_yacute2" = -57;
+"@MMK_R_z2" = -57;
+Efcyr = -30;
+};
+"@MMK_L_U" = {
+"@MMK_R_A2" = -29;
+"@MMK_R_a2" = -10;
+"@MMK_R_bullet2" = -29;
+"@MMK_R_comma2" = -10;
+"@MMK_R_m" = -10;
+"@MMK_R_p" = -10;
+};
+"@MMK_L_V" = {
+"@MMK_R_A2" = -41;
+"@MMK_R_C2" = -29;
+"@MMK_R_M2" = -10;
+"@MMK_R_S2" = -10;
+"@MMK_R_X" = -40;
+"@MMK_R_a2" = -48;
+"@MMK_R_b2" = 10;
+"@MMK_R_bullet2" = -57;
+"@MMK_R_comma2" = -67;
+"@MMK_R_f" = -19;
+"@MMK_R_g2" = -50;
+"@MMK_R_j2" = -10;
+"@MMK_R_m" = -38;
+"@MMK_R_p" = -38;
+"@MMK_R_s2" = -29;
+"@MMK_R_t2" = -38;
+"@MMK_R_tau" = -10;
+"@MMK_R_uni0414_2" = -50;
+"@MMK_R_uni0436" = -38;
+"@MMK_R_v2" = -29;
+"@MMK_R_yacute2" = -29;
+"@MMK_R_z2" = -29;
+Efcyr = -20;
+};
+"@MMK_L_Y" = {
+"@MMK_R_A2" = -62;
+"@MMK_R_C2" = -43;
+"@MMK_R_a2" = -67;
+"@MMK_R_bullet2" = -95;
+"@MMK_R_comma2" = -95;
+"@MMK_R_f" = -29;
+"@MMK_R_g2" = -70;
+"@MMK_R_m" = -67;
+"@MMK_R_p" = -67;
+"@MMK_R_s2" = -48;
+"@MMK_R_t2" = -67;
+"@MMK_R_tau" = -29;
+"@MMK_R_tilde2" = 10;
+"@MMK_R_uni0414_2" = -50;
+"@MMK_R_uni0436" = -57;
+"@MMK_R_v2" = -57;
+"@MMK_R_yacute2" = -38;
+"@MMK_R_z2" = -48;
+Efcyr = -30;
+};
+"@MMK_L_Z" = {
+"@MMK_R_g2" = -10;
+"@MMK_R_t2" = -10;
+"@MMK_R_v2" = -14;
+};
+"@MMK_L_a" = {
+"@MMK_R_B2" = -10;
+"@MMK_R_J" = -19;
+"@MMK_R_T2" = -57;
+"@MMK_R_V2" = -38;
+"@MMK_R_Y2" = -67;
+"@MMK_R_f" = -10;
+"@MMK_R_tilde2" = -29;
+"@MMK_R_v2" = -10;
+};
+"@MMK_L_b" = {
+"@MMK_R_A2" = -14;
+"@MMK_R_B2" = -19;
+"@MMK_R_J" = -19;
+"@MMK_R_T2" = -57;
+"@MMK_R_V2" = -48;
+"@MMK_R_X" = -19;
+"@MMK_R_Y2" = -67;
+"@MMK_R_comma2" = -19;
+"@MMK_R_f" = -19;
+"@MMK_R_hbar" = -50;
+"@MMK_R_tilde2" = -19;
+"@MMK_R_uni0436" = -14;
+"@MMK_R_v2" = -10;
+"@MMK_R_yacute2" = -10;
+};
+"@MMK_L_bullet" = {
+"@MMK_R_A2" = -38;
+"@MMK_R_B2" = -29;
+"@MMK_R_J" = -29;
+"@MMK_R_M2" = -29;
+"@MMK_R_T2" = -67;
+"@MMK_R_U2" = -29;
+"@MMK_R_V2" = -57;
+"@MMK_R_X" = -57;
+"@MMK_R_Y2" = -95;
+"@MMK_R_uni0436" = -38;
+"@MMK_R_v2" = -29;
+};
+"@MMK_L_c" = {
+"@MMK_R_B2" = -19;
+"@MMK_R_T2" = -29;
+"@MMK_R_Y2" = -48;
+"@MMK_R_bullet2" = -19;
+"@MMK_R_comma2" = -10;
+"@MMK_R_hbar" = -50;
+};
+"@MMK_L_comma" = {
+"@MMK_R_C2" = -29;
+"@MMK_R_T2" = -76;
+"@MMK_R_U2" = -10;
+"@MMK_R_V2" = -67;
+"@MMK_R_Y2" = -95;
+"@MMK_R_a2" = -19;
+"@MMK_R_t2" = -19;
+"@MMK_R_tilde2" = -76;
+"@MMK_R_uni0427" = -70;
+"@MMK_R_v2" = -57;
+"@MMK_R_yacute2" = -38;
+};
+"@MMK_L_e" = {
+"@MMK_R_A2" = -19;
+"@MMK_R_B2" = -19;
+"@MMK_R_T2" = -57;
+"@MMK_R_Y2" = -57;
+"@MMK_R_comma2" = -10;
+"@MMK_R_hbar" = -40;
+"@MMK_R_tilde2" = -19;
+"@MMK_R_uni0436" = -12;
+};
+"@MMK_L_eta.sups" = {
+"@MMK_R_nu.sups2" = -7;
+Tau.sups = -43;
+Upsilon.sups = -50;
+};
+"@MMK_L_g" = {
+"@MMK_R_A2" = -19;
+"@MMK_R_T2" = -57;
+"@MMK_R_V2" = -38;
+"@MMK_R_Y2" = -67;
+"@MMK_R_tilde2" = -19;
+};
+"@MMK_L_gtilde" = {
+"@MMK_R_J" = 30;
+"@MMK_R_T2" = 20;
+"@MMK_R_Y2" = -30;
+"@MMK_R_Z2" = 10;
+"@MMK_R_tilde2" = 30;
+};
+"@MMK_L_iota.sups" = {
+Tau.sups = -43;
+Upsilon.sups = -43;
+};
+"@MMK_L_j" = {
+"@MMK_R_comma2" = -19;
+};
+"@MMK_L_k" = {
+"@MMK_R_tilde2" = -30;
+};
+"@MMK_L_nu.sups" = {
+"@MMK_R_Alpha.sups2" = -22;
+"@MMK_R_Chi.sups2" = -22;
+"@MMK_R_xi.sups2" = -7;
+Tau.sups = -43;
+Upsilon.sups = -43;
+};
+"@MMK_L_pi.sups" = {
+Tau.sups = -22;
+Upsilon.sups = -36;
+};
+"@MMK_L_r" = {
+"@MMK_R_A2" = -29;
+"@MMK_R_B2" = -10;
+"@MMK_R_J" = -19;
+"@MMK_R_T2" = -67;
+"@MMK_R_V2" = -25;
+"@MMK_R_X" = -38;
+"@MMK_R_Y2" = -38;
+"@MMK_R_bullet2" = -19;
+"@MMK_R_comma2" = -57;
+"@MMK_R_tilde2" = 19;
+};
+"@MMK_L_rho.sups" = {
+"@MMK_R_Alpha.sups2" = -11;
+"@MMK_R_Chi.sups2" = -14;
+"@MMK_R_Nu.sups2" = -14;
+"@MMK_R_nu.sups2" = -7;
+Tau.sups = -43;
+Upsilon.sups = -50;
+pi.sups = -14;
+};
+"@MMK_L_s" = {
+"@MMK_R_T2" = -57;
+"@MMK_R_V2" = -29;
+"@MMK_R_X" = -19;
+"@MMK_R_Y2" = -48;
+"@MMK_R_comma2" = -10;
+"@MMK_R_hbar" = -40;
+};
+"@MMK_L_t" = {
+"@MMK_R_B2" = -10;
+"@MMK_R_T2" = -29;
+"@MMK_R_V2" = -10;
+"@MMK_R_X" = -10;
+"@MMK_R_Y2" = -48;
+};
+"@MMK_L_tilde" = {
+"@MMK_R_A2" = -40;
+"@MMK_R_C2" = -10;
+"@MMK_R_Y2" = 10;
+"@MMK_R_a2" = -30;
+"@MMK_R_comma2" = -80;
+"@MMK_R_g2" = -80;
+"@MMK_R_m" = -20;
+"@MMK_R_p" = -20;
+"@MMK_R_t2" = -20;
+"@MMK_R_uni0414_2" = -86;
+"@MMK_R_uni0430" = -14;
+};
+"@MMK_L_u" = {
+"@MMK_R_T2" = -57;
+"@MMK_R_V2" = -38;
+"@MMK_R_Y2" = -57;
+"@MMK_R_f" = -10;
+"@MMK_R_tilde2" = -29;
+};
+"@MMK_L_uni040B" = {
+"@MMK_R_T2" = -52;
+"@MMK_R_V2" = -50;
+"@MMK_R_tilde2" = -24;
+};
+"@MMK_L_uni0414" = {
+"@MMK_R_M2" = 20;
+"@MMK_R_T2" = -40;
+"@MMK_R_V2" = -20;
+"@MMK_R_comma2" = 40;
+"@MMK_R_uni0414_2" = 40;
+"@MMK_R_uni0427" = -20;
+};
+"@MMK_L_uni042C" = {
+"@MMK_R_T2" = -80;
+"@MMK_R_V2" = -14;
+"@MMK_R_X" = -20;
+"@MMK_R_Y2" = -60;
+"@MMK_R_uni0414_2" = -10;
+};
+"@MMK_L_uni0432" = {
+"@MMK_R_hbar" = -32;
+};
+"@MMK_L_uni0443.sc" = {
+"@MMK_R_uni0443.sc2" = -34;
+};
+"@MMK_L_uni044C" = {
+"@MMK_R_hbar" = -40;
+};
+"@MMK_L_uni0462" = {
+"@MMK_R_T2" = -50;
+"@MMK_R_V2" = -18;
+"@MMK_R_X" = -20;
+"@MMK_R_tilde2" = -47;
+};
+"@MMK_L_uni0491" = {
+"@MMK_R_a2" = -30;
+"@MMK_R_j2" = 10;
+"@MMK_R_s2" = -10;
+};
+"@MMK_L_v" = {
+"@MMK_R_A2" = -29;
+"@MMK_R_B2" = -10;
+"@MMK_R_J" = -10;
+"@MMK_R_T2" = -57;
+"@MMK_R_V2" = -29;
+"@MMK_R_X" = -29;
+"@MMK_R_Y2" = -57;
+"@MMK_R_a2" = -10;
+"@MMK_R_bullet2" = -29;
+"@MMK_R_comma2" = -57;
+"@MMK_R_hbar" = -30;
+"@MMK_R_tilde2" = 10;
+};
+"@MMK_L_x" = {
+"@MMK_R_T2" = -57;
+"@MMK_R_V2" = -38;
+"@MMK_R_Y2" = -57;
+"@MMK_R_a2" = -14;
+"@MMK_R_bullet2" = -38;
+"@MMK_R_hbar" = -30;
+"@MMK_R_tilde2" = 38;
+};
+"@MMK_L_xi.sups" = {
+"@MMK_R_Nu.sups2" = -14;
+Tau.sups = -22;
+Upsilon.sups = -36;
+};
+"@MMK_L_yacute" = {
+"@MMK_R_T2" = -57;
+"@MMK_R_V2" = -29;
+"@MMK_R_X" = -29;
+"@MMK_R_Y2" = -38;
+"@MMK_R_a2" = -10;
+"@MMK_R_comma2" = -57;
+};
+"@MMK_L_z" = {
+"@MMK_R_T2" = -57;
+"@MMK_R_V2" = -29;
+"@MMK_R_Y2" = -48;
+};
+A = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Aacute = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Abreve = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Abreveacute = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Abrevecyr = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Abrevedotbelow = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Abrevegrave = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Abrevehoi = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Abrevetilde = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Acaron = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Acircumflex = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Acircumflexacute = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Acircumflexdotbelow = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Acircumflexgrave = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Acircumflexhoi = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Acircumflextilde = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Acyr = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Adieresis = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Adieresiscyr = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Adotbelow = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Agrave = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Ahoi = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alpha = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphaacute = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphaasper = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphaasperacute = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphaasperacuteiotasub = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphaaspergrave = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphaaspergraveiotasub = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphaasperiotasub = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphaaspertilde = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphaaspertildeiotasub = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphabreve = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphagrave = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphaiotasub = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphaiotasub.ss05 = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+Alphalenis = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphalenisacute = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphalenisacuteiotasub = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphalenisgrave = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphalenisgraveiotasub = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphalenisiotasub = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphalenistilde = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphalenistildeiotasub = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphatonos = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Alphawithmacron = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Amacron = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Aogonek = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Aring = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Aringacute = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Atilde = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Chetailcyr = {
+bracketright = 30;
+colon = 40;
+parenright = 40;
+semicolon = 40;
+};
+D = {
+Yatcyr = -19;
+};
+Dcaron = {
+Yatcyr = -19;
+};
+Dcroat = {
+Yatcyr = -19;
+};
+Decyr = {
+bracketright = 30;
+colon = 40;
+parenright = 40;
+semicolon = 40;
+};
+Delta = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Djecyr = {
+Yatcyr = -29;
+};
+Efcyr = {
+"@MMK_R_T2" = -30;
+"@MMK_R_V2" = -20;
+"@MMK_R_X" = -30;
+"@MMK_R_Y2" = -30;
+};
+Engecyr = {
+Decyr = -73;
+colon = -80;
+semicolon = -80;
+};
+Ensharptailcyr = {
+bracketright = 30;
+colon = 40;
+parenright = 40;
+semicolon = 40;
+};
+Entailcyr = {
+bracketright = 30;
+colon = 40;
+parenright = 40;
+semicolon = 40;
+};
+Ereversedcyr = {
+Yatcyr = -19;
+};
+Etaiotasub.ss05 = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+Eth = {
+Yatcyr = -19;
+};
+Fitacyr = {
+Yatcyr = -19;
+};
+Gamma = {
+Decyr = -73;
+colon = -80;
+semicolon = -80;
+};
+Gamma.sups = {
+"@MMK_R_Alpha.sups2" = -45;
+"@MMK_R_Phi.sups2" = -18;
+Omega.sups = -17;
+};
+Gecyr = {
+Decyr = -73;
+colon = -80;
+semicolon = -80;
+};
+Gestrokecyr = {
+"@MMK_R_A2" = -60;
+"@MMK_R_M2" = -30;
+"@MMK_R_uni0414_2" = -80;
+Efcyr = -30;
+};
+Getailcyr = {
+Decyr = -73;
+colon = -80;
+semicolon = -80;
+};
+Geupcyr = {
+Decyr = -73;
+colon = -80;
+semicolon = -80;
+};
+Gjecyr = {
+Decyr = -73;
+colon = -80;
+semicolon = -80;
+};
+Hardcyr = {
+Decyr = -10;
+Tshecyr = -80;
+Yatcyr = -26;
+};
+Izhitsacyr = {
+Decyr = -40;
+};
+Lambda = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+Ljecyr = {
+Decyr = -10;
+Tshecyr = -80;
+Yatcyr = -26;
+};
+Mu.sups = {
+"@MMK_R_nu.sups2" = -11;
+};
+N = {
+a = -29;
+aacute = -29;
+abreve = -29;
+abreveacute = -29;
+abrevedotbelow = -29;
+abrevegrave = -29;
+abrevehoi = -29;
+abrevetilde = -29;
+acaron = -29;
+acircumflex = -29;
+acircumflexacute = -29;
+acircumflexdotbelow = -29;
+acircumflexgrave = -29;
+acircumflexhoi = -29;
+acircumflextilde = -29;
+adieresis = -29;
+adotbelow = -29;
+ae = -29;
+aeacute = -29;
+agrave = -29;
+ahoi = -29;
+aiecyr = -29;
+alpha = -29;
+alphaacute = -29;
+alphaacuteiotasub = -29;
+alphaasper = -29;
+alphaasperacute = -29;
+alphaasperacuteiotasub = -29;
+alphaaspergrave = -29;
+alphaaspergraveiotasub = -29;
+alphaasperiotasub = -29;
+alphaaspertilde = -29;
+alphaaspertildeiotasub = -29;
+alphabreve = -29;
+alphagrave = -29;
+alphagraveiotasub = -29;
+alphaiotasub = -29;
+alphalenis = -29;
+alphalenisacute = -29;
+alphalenisacuteiotasub = -29;
+alphalenisgrave = -29;
+alphalenisgraveiotasub = -29;
+alphalenisiotasub = -29;
+alphalenistilde = -29;
+alphalenistildeiotasub = -29;
+alphatilde = -29;
+alphatildeiotasub = -29;
+alphawithmacron = -29;
+amacron = -29;
+aogonek = -29;
+aring = -29;
+aringacute = -29;
+atilde = -29;
+becyr.loclSRB = -29;
+c = -29;
+cacute = -29;
+ccaron = -29;
+ccedilla = -29;
+ccircumflex = -29;
+cdotaccent = -29;
+d = -29;
+dcaron = -29;
+dcroat = -29;
+decyr = -29;
+delta = -29;
+e = -29;
+eacute = -29;
+ebreve = -29;
+ecaron = -29;
+ecircumflex = -29;
+ecircumflexacute = -29;
+ecircumflexdotbelow = -29;
+ecircumflexgrave = -29;
+ecircumflexhoi = -29;
+ecircumflextilde = -29;
+edieresis = -29;
+edotaccent = -29;
+edotbelow = -29;
+efcyr = -29;
+egrave = -29;
+ehoi = -29;
+emacron = -29;
+eogonek = -29;
+escyr = -29;
+estailcyr = -29;
+estailcyr.loclCHU = -29;
+etilde = -29;
+eukrcyr = -29;
+fitacyr = -29;
+gecyr = -29;
+gestrokecyr = -29;
+getailcyr = -29;
+gjecyr = -29;
+iebrevecyr = -29;
+iecyr = -29;
+iegravecyr = -29;
+iocyr = -29;
+o = -29;
+oacute = -29;
+obarcyr = -29;
+obreve = -29;
+ocaron = -29;
+ocircumflex = -29;
+ocircumflexacute = -29;
+ocircumflexdotbelow = -29;
+ocircumflexgrave = -29;
+ocircumflexhoi = -29;
+ocircumflextilde = -29;
+ocyr = -29;
+odieresis = -29;
+odieresiscyr = -29;
+odotbelow = -29;
+oe = -29;
+ograve = -29;
+ohoi = -29;
+ohorn = -29;
+ohornacute = -29;
+ohorndotbelow = -29;
+ohorngrave = -29;
+ohornhoi = -29;
+ohorntilde = -29;
+ohungarumlaut = -29;
+omacron = -29;
+omicron = -29;
+omicronacute = -29;
+omicronasper = -29;
+omicronasperacute = -29;
+omicronaspergrave = -29;
+omicrongrave = -29;
+omicronlenis = -29;
+omicronlenisacute = -29;
+omicronlenisgrave = -29;
+omicrontonos = -29;
+oogonek = -29;
+oslash = -29;
+oslashacute = -29;
+oslashacute.BRACKET = -29;
+otilde = -29;
+phi = -29;
+q = -29;
+qacyr = -29;
+schwa = -29;
+schwacyr = -29;
+sigma = -29;
+sigmafinal = -29;
+vecyr = -29;
+xi = -29;
+};
+Njecyr = {
+Decyr = -10;
+Tshecyr = -80;
+Yatcyr = -26;
+};
+O = {
+Yatcyr = -19;
+};
+Oacute = {
+Yatcyr = -19;
+};
+Obarcyr = {
+Yatcyr = -19;
+};
+Obreve = {
+Yatcyr = -19;
+};
+Ocaron = {
+Yatcyr = -19;
+};
+Ocircumflex = {
+Yatcyr = -19;
+};
+Ocircumflexacute = {
+Yatcyr = -19;
+};
+Ocircumflexdotbelow = {
+Yatcyr = -19;
+};
+Ocircumflexgrave = {
+Yatcyr = -19;
+};
+Ocircumflexhoi = {
+Yatcyr = -19;
+};
+Ocircumflextilde = {
+Yatcyr = -19;
+};
+Ocyr = {
+Yatcyr = -19;
+};
+Odieresis = {
+Yatcyr = -19;
+};
+Odieresiscyr = {
+Yatcyr = -19;
+};
+Odotbelow = {
+Yatcyr = -19;
+};
+Ograve = {
+Yatcyr = -19;
+};
+Ohoi = {
+Yatcyr = -19;
+};
+Ohorn = {
+Yatcyr = -19;
+};
+Ohornacute = {
+Yatcyr = -19;
+};
+Ohorndotbelow = {
+Yatcyr = -19;
+};
+Ohorngrave = {
+Yatcyr = -19;
+};
+Ohornhoi = {
+Yatcyr = -19;
+};
+Ohorntilde = {
+Yatcyr = -19;
+};
+Ohungarumlaut = {
+Yatcyr = -19;
+};
+Omacron = {
+Yatcyr = -19;
+};
+Omicron = {
+Yatcyr = -19;
+};
+Omicronacute = {
+Yatcyr = -19;
+};
+Omicronasper = {
+Yatcyr = -19;
+};
+Omicronasperacute = {
+Yatcyr = -19;
+};
+Omicronaspergrave = {
+Yatcyr = -19;
+};
+Omicrongrave = {
+Yatcyr = -19;
+};
+Omicronlenis = {
+Yatcyr = -19;
+};
+Omicronlenisacute = {
+Yatcyr = -19;
+};
+Omicronlenisgrave = {
+Yatcyr = -19;
+};
+Omicrontonos = {
+Yatcyr = -19;
+};
+Oogonek = {
+Yatcyr = -19;
+};
+Oslash = {
+Yatcyr = -19;
+};
+Oslashacute = {
+Yatcyr = -19;
+};
+Oslashacute.BRACKET = {
+Yatcyr = -19;
+};
+Otilde = {
+Yatcyr = -19;
+};
+Phi = {
+Yatcyr = -19;
+};
+Q = {
+Yatcyr = -19;
+};
+Q.short = {
+Yatcyr = -19;
+};
+Qacyr = {
+Yatcyr = -19;
+};
+Rho.sups = {
+"@MMK_R_Alpha.sups2" = -41;
+"@MMK_R_xi.sups2" = -14;
+};
+Saltillo = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+Schwa = {
+Yatcyr = -19;
+};
+Schwacyr = {
+Yatcyr = -19;
+};
+Shchacyr = {
+bracketright = 30;
+colon = 40;
+parenright = 40;
+semicolon = 40;
+};
+Shhacyr = {
+"@MMK_R_T2" = -60;
+"@MMK_R_V2" = -16;
+"@MMK_R_uni0427" = -20;
+Tshecyr = -60;
+Yatcyr = -15;
+};
+Softcyr = {
+Decyr = -10;
+Tshecyr = -80;
+Yatcyr = -26;
+};
+T = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+Tau = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+Tau.sups = {
+"@MMK_R_Alpha.sups2" = -31;
+"@MMK_R_Phi.sups2" = -14;
+"@MMK_R_eta.sups2" = -36;
+"@MMK_R_nu.sups2" = -43;
+"@MMK_R_psi.sups" = -43;
+"@MMK_R_rho.sups2" = -43;
+"@MMK_R_xi.sups2" = -43;
+};
+Tbar = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+Tcaron = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+Tcedilla = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+Tcommaaccent = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+Tecyr = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+Theta = {
+Yatcyr = -19;
+};
+Tsecyr = {
+bracketright = 30;
+colon = 40;
+parenright = 40;
+semicolon = 40;
+};
+Tshecyr = {
+Yatcyr = -29;
+};
+Uacutedblcyr = {
+Decyr = -40;
+};
+Ucyr = {
+Decyr = -40;
+};
+Udieresiscyr = {
+Decyr = -40;
+};
+Umacroncyr = {
+Decyr = -40;
+};
+Upsilon.sups = {
+"@MMK_R_Alpha.sups2" = -45;
+"@MMK_R_Phi.sups2" = -31;
+"@MMK_R_eta.sups2" = -50;
+"@MMK_R_nu.sups2" = -43;
+"@MMK_R_psi.sups" = -50;
+"@MMK_R_rho.sups2" = -50;
+"@MMK_R_xi.sups2" = -50;
+};
+Ushortcyr = {
+Decyr = -40;
+};
+V = {
+Decyr = -40;
+};
+W = {
+Decyr = -40;
+};
+Wacute = {
+Decyr = -40;
+};
+Wcircumflex = {
+Decyr = -40;
+};
+Wdieresis = {
+Decyr = -40;
+};
+Wecyr = {
+Decyr = -40;
+};
+Wgrave = {
+Decyr = -40;
+};
+Yucyr = {
+Yatcyr = -19;
+};
+Zeta.sups = {
+"@MMK_R_nu.sups2" = -11;
+};
+a = {
+B = -10;
+Becyr = -10;
+Beta = -10;
+D = -10;
+Dcaron = -10;
+Dcroat = -10;
+Dzhecyr = -10;
+E = -10;
+Eacute = -10;
+Ebreve = -10;
+Ecaron = -10;
+Ecircumflex = -10;
+Ecircumflexacute = -10;
+Ecircumflexdotbelow = -10;
+Ecircumflexgrave = -10;
+Ecircumflexhoi = -10;
+Ecircumflextilde = -10;
+Edieresis = -10;
+Edotaccent = -10;
+Edotbelow = -10;
+Egrave = -10;
+Ehoi = -10;
+Emacron = -10;
+Encyr = -10;
+Eng = -10;
+Engecyr = -10;
+Ensharptailcyr = -10;
+Entailcyr = -10;
+Eogonek = -10;
+Epsilon = -10;
+Epsilonacute = -10;
+Epsilonasper = -10;
+Epsilonasperacute = -10;
+Epsilonaspergrave = -10;
+Epsilongrave = -10;
+Epsilonlenis = -10;
+Epsilonlenisacute = -10;
+Epsilonlenisgrave = -10;
+Ercyr = -10;
+Eta = -10;
+Etaacute = -10;
+Etaasper = -10;
+Etaasperacute = -10;
+Etaasperacuteiotasub = -10;
+Etaaspergrave = -10;
+Etaaspergraveiotasub = -10;
+Etaasperiotasub = -10;
+Etaaspertilde = -10;
+Etaaspertildeiotasub = -10;
+Etagrave = -10;
+Etaiotasub = -10;
+Etaiotasub.sc.ss05 = -10;
+Etaiotasub.ss05 = -10;
+Etalenis = -10;
+Etalenisacute = -10;
+Etalenisacuteiotasub = -10;
+Etalenisgrave = -10;
+Etalenisgraveiotasub = -10;
+Etalenisiotasub = -10;
+Etalenistilde = -10;
+Etalenistildeiotasub = -10;
+Eth = -10;
+Etilde = -10;
+F = -10;
+Gamma = -10;
+Gecyr = -10;
+Gehookcyr = -10;
+Gestrokecyr.loclBSH = -10;
+Getailcyr = -10;
+Geupcyr = -10;
+Gjecyr = -10;
+H = -10;
+Hbar = -10;
+Hcircumflex = -10;
+I = -10;
+IJ = -10;
+Iacute = -10;
+Ibreve = -10;
+Icaron = -10;
+Icircumflex = -10;
+Icyr = -10;
+Idieresis = -10;
+Idieresiscyr = -10;
+Idotaccent = -10;
+Idotbelow = -10;
+Iebrevecyr = -10;
+Iecyr = -10;
+Iegravecyr = -10;
+Igrave = -10;
+Igravecyr = -10;
+Ihoi = -10;
+Imacron = -10;
+Imacroncyr = -10;
+Iocyr = -10;
+Iogonek = -10;
+Iota = -10;
+Iotaacute = -10;
+Iotaasper = -10;
+Iotaasperacute = -10;
+Iotaaspergrave = -10;
+Iotaaspertilde = -10;
+Iotabreve = -10;
+Iotadieresis = -10;
+Iotagrave = -10;
+Iotalenis = -10;
+Iotalenisacute = -10;
+Iotalenisgrave = -10;
+Iotalenistilde = -10;
+Iotawithmacron = -10;
+Ishortcyr = -10;
+Itilde = -10;
+Iukrcyr = -10;
+J = -19;
+Jcircumflex = -19;
+Jecyr = -19;
+K = -10;
+Kacyr = -10;
+Kaisymbol = -10;
+Kappa = -10;
+Katailcyr = -10;
+Kaverticalstrokecyr = -10;
+Kcommaaccent = -10;
+Kjecyr = -10;
+L = -10;
+Lacute = -10;
+Lcaron = -10;
+Lcommaaccent = -10;
+Ldot = -10;
+Lslash = -10;
+N = -10;
+Nacute = -10;
+Ncaron = -10;
+Ncommaaccent = -10;
+Njecyr = -10;
+Ntilde = -10;
+Nu = -10;
+P = -10;
+Palochkacyr = -10;
+Pecyr = -10;
+Petailcyr = -10;
+Pi = -10;
+R = -10;
+Racute = -10;
+Rcaron = -10;
+Rcommaaccent = -10;
+Rho = -10;
+Shacyr = -10;
+Shchacyr = -10;
+Shhacyr = -10;
+Softcyr = -10;
+Thorn = -10;
+Tsecyr = -10;
+Vecyr = -10;
+Ylongcyr = -10;
+Ylongdieresiscyr = -10;
+Yucyr = -10;
+Yukrcyr = -10;
+b.sc = -10;
+beta.sc = -10;
+d.sc = -10;
+dcaron.sc = -10;
+dcroat.sc = -10;
+ddotbelow.sc = -10;
+dlinebelow.sc = -10;
+dotlessi.sc = -10;
+dotlessj.sc = -19;
+dzcaron.sc = -10;
+e.sc = -10;
+eacute.sc = -10;
+ebreve.sc = -10;
+ecaron.sc = -10;
+ecedillabreve.sc = -10;
+ecircumflex.sc = -10;
+ecircumflexacute.sc = -10;
+ecircumflexdotbelow.sc = -10;
+ecircumflexgrave.sc = -10;
+ecircumflexhoi.sc = -10;
+ecircumflextilde.sc = -10;
+edblgrave.sc = -10;
+edieresis.sc = -10;
+edotaccent.sc = -10;
+edotbelow.sc = -10;
+egrave.sc = -10;
+ehoi.sc = -10;
+einvertedbreve.sc = -10;
+emacron.sc = -10;
+emacronacute.sc = -10;
+emacrongrave.sc = -10;
+encyr.sc = -10;
+eng.sc = -10;
+ensharptailcyr.sc = -10;
+entailcyr.sc = -10;
+eogonek.sc = -10;
+epsilon.sc = -10;
+epsilonacute.sc = -10;
+epsilonasper.sc = -10;
+epsilonasperacute.sc = -10;
+epsilonaspergrave.sc = -10;
+epsilongrave.sc = -10;
+epsilonlenis.sc = -10;
+epsilonlenisacute.sc = -10;
+epsilonlenisgrave.sc = -10;
+epsilontonos.sc = -10;
+ercyr.sc = -10;
+eta.sc = -10;
+etaacute.sc = -10;
+etaacuteiotasub.sc = -10;
+etaacuteiotasub.sc.ss05 = -10;
+etaasper.sc = -10;
+etaasperacute.sc = -10;
+etaasperacuteiotasub.sc = -10;
+etaasperacuteiotasub.sc.ss05 = -10;
+etaaspergrave.sc = -10;
+etaaspergraveiotasub.sc = -10;
+etaaspergraveiotasub.sc.ss05 = -10;
+etaasperiotasub.sc = -10;
+etaasperiotasub.sc.ss05 = -10;
+etaaspertilde.sc = -10;
+etaaspertildeiotasub.sc = -10;
+etaaspertildeiotasub.sc.ss05 = -10;
+etagrave.sc = -10;
+etagraveiotasub.sc = -10;
+etagraveiotasub.sc.ss05 = -10;
+etaiotasub.sc = -10;
+etaiotasub.sc.ss05 = -10;
+etalenis.sc = -10;
+etalenisacute.sc = -10;
+etalenisacuteiotasub.sc = -10;
+etalenisacuteiotasub.sc.ss05 = -10;
+etalenisgrave.sc = -10;
+etalenisgraveiotasub.sc = -10;
+etalenisgraveiotasub.sc.ss05 = -10;
+etalenisiotasub.sc = -10;
+etalenisiotasub.sc.ss05 = -10;
+etalenistilde.sc = -10;
+etalenistildeiotasub.sc = -10;
+etalenistildeiotasub.sc.ss05 = -10;
+etatilde.sc = -10;
+etatildeiotasub.sc = -10;
+etatildeiotasub.sc.ss05 = -10;
+etatonos.sc = -10;
+eth.sc = -10;
+etilde.sc = -10;
+f.sc = -10;
+gamma.sc = -10;
+getailcyr.sc = -10;
+gjecyr.sc = -10;
+h.sc = -10;
+hbar.sc = -10;
+hbrevebelow.sc = -10;
+hcircumflex.sc = -10;
+hdotbelow.sc = -10;
+i.loclTRK.sc = -10;
+i.sc = -10;
+iacute.sc = -10;
+iacute_j.loclNLD.sc = -10;
+ibreve.sc = -10;
+icaron.sc = -10;
+icircumflex.sc = -10;
+icyr.sc = -10;
+idblgrave.sc = -10;
+idieresis.sc = -10;
+idieresisacute.sc = -10;
+idieresiscyr.sc = -10;
+idotbelow.sc = -10;
+iebrevecyr.sc = -10;
+iecyr.sc = -10;
+iegravecyr.sc = -10;
+igrave.sc = -10;
+igravecyr.sc = -10;
+ihoi.sc = -10;
+iinvertedbreve.sc = -10;
+ij.sc = -10;
+imacron.sc = -10;
+imacroncyr.sc = -10;
+iocyr.sc = -10;
+iogonek.sc = -10;
+iota.sc = -10;
+iotaacute.sc = -10;
+iotaasper.sc = -10;
+iotaasperacute.sc = -10;
+iotaaspergrave.sc = -10;
+iotaaspertilde.sc = -10;
+iotabreve.sc = -10;
+iotadieresis.sc = -10;
+iotadieresisacute.sc = -10;
+iotadieresisgrave.sc = -10;
+iotadieresistilde.sc = -10;
+iotadieresistonos.sc = -10;
+iotagrave.sc = -10;
+iotalenis.sc = -10;
+iotalenisacute.sc = -10;
+iotalenisgrave.sc = -10;
+iotalenistilde.sc = -10;
+iotatilde.sc = -10;
+iotatonos.sc = -10;
+iotawithmacron.sc = -10;
+ishortcyr.sc = -10;
+itilde.sc = -10;
+iukrcyr.sc = -10;
+j.sc = -19;
+jcircumflex.sc = -19;
+jecyr.sc = -19;
+k.sc = -10;
+kaisymbol.sc = -10;
+kappa.sc = -10;
+kcommaaccent.sc = -10;
+kgreenlandic.sc = -10;
+kjecyr.sc = -10;
+l.sc = -10;
+lacute.sc = -10;
+lcaron.sc = -10;
+lcommaaccent.sc = -10;
+ldot.sc = -10;
+ldotbelow.sc = -10;
+lj.sc = -10;
+llinebelow.sc = -10;
+lslash.sc = -10;
+n.sc = -10;
+nacute.sc = -10;
+ncaron.sc = -10;
+ncommaaccent.sc = -10;
+ndot.sc = -10;
+ndotbelow.sc = -10;
+nj.sc = -10;
+nlinebelow.sc = -10;
+ntilde.sc = -10;
+nu.sc = -10;
+p.sc = -10;
+palochkacyr.sc = -10;
+petailcyr.sc = -10;
+pi.sc = -10;
+quoteright = -29;
+r.sc = -10;
+racute.sc = -10;
+rcaron.sc = -10;
+rcommaaccent.sc = -10;
+rdblgrave.sc = -10;
+rdotbelow.sc = -10;
+rho.sc = -10;
+rhoasper.sc = -10;
+rholenis.sc = -10;
+rinvertedbreve.sc = -10;
+rlinebelow.sc = -10;
+shchacyr.sc = -10;
+thorn.sc = -10;
+vecyr.sc = -10;
+ylongdieresiscyr.sc = -10;
+yucyr.sc = -10;
+yukrcyr.sc = -10;
+};
+a.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+aacute = {
+quoteright = -29;
+};
+aacute.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+abreve = {
+quoteright = -29;
+};
+abreve.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+abreveacute = {
+quoteright = -29;
+};
+abreveacute.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+abrevecyr = {
+quoteright = -29;
+};
+abrevecyr.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+abrevedotbelow = {
+quoteright = -29;
+};
+abrevedotbelow.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+abrevegrave = {
+quoteright = -29;
+};
+abrevegrave.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+abrevehoi = {
+quoteright = -29;
+};
+abrevehoi.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+abrevetilde = {
+quoteright = -29;
+};
+abrevetilde.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+acaron = {
+quoteright = -29;
+};
+acaron.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+acircumflex = {
+quoteright = -29;
+};
+acircumflex.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+acircumflexacute = {
+quoteright = -29;
+};
+acircumflexacute.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+acircumflexdotbelow = {
+quoteright = -29;
+};
+acircumflexdotbelow.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+acircumflexgrave = {
+quoteright = -29;
+};
+acircumflexgrave.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+acircumflexhoi = {
+quoteright = -29;
+};
+acircumflexhoi.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+acircumflextilde = {
+quoteright = -29;
+};
+acircumflextilde.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+acutecomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+acutecomb.case = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+acyr = {
+quoteright = -29;
+};
+acyr.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+adblgrave.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+adieresis = {
+quoteright = -29;
+};
+adieresis.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+adieresiscyr = {
+quoteright = -29;
+};
+adieresiscyr.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+adotbelow = {
+quoteright = -29;
+};
+adotbelow.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+agrave = {
+quoteright = -29;
+};
+agrave.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+ahoi = {
+quoteright = -29;
+};
+ahoi.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+ainvertedbreve.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alpha = {
+quoteright = -29;
+};
+alpha.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaacute = {
+quoteright = -29;
+};
+alphaacute.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaacuteiotasub = {
+quoteright = -29;
+};
+alphaacuteiotasub.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaacuteiotasub.sc.ss05 = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaasper = {
+quoteright = -29;
+};
+alphaasper.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaasperacute = {
+quoteright = -29;
+};
+alphaasperacute.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaasperacuteiotasub = {
+quoteright = -29;
+};
+alphaasperacuteiotasub.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaasperacuteiotasub.sc.ss05 = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaaspergrave = {
+quoteright = -29;
+};
+alphaaspergrave.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaaspergraveiotasub = {
+quoteright = -29;
+};
+alphaaspergraveiotasub.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaaspergraveiotasub.sc.ss05 = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaasperiotasub = {
+quoteright = -29;
+};
+alphaasperiotasub.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaasperiotasub.sc.ss05 = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaaspertilde = {
+quoteright = -29;
+};
+alphaaspertilde.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaaspertildeiotasub = {
+quoteright = -29;
+};
+alphaaspertildeiotasub.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaaspertildeiotasub.sc.ss05 = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphabreve = {
+quoteright = -29;
+};
+alphabreve.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphagrave = {
+quoteright = -29;
+};
+alphagrave.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphagraveiotasub = {
+quoteright = -29;
+};
+alphagraveiotasub.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphagraveiotasub.sc.ss05 = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaiotasub = {
+quoteright = -29;
+};
+alphaiotasub.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphaiotasub.sc.ss05 = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphalenis = {
+quoteright = -29;
+};
+alphalenis.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphalenisacute = {
+quoteright = -29;
+};
+alphalenisacute.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphalenisacuteiotasub = {
+quoteright = -29;
+};
+alphalenisacuteiotasub.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphalenisacuteiotasub.sc.ss05 = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphalenisgrave = {
+quoteright = -29;
+};
+alphalenisgrave.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphalenisgraveiotasub = {
+quoteright = -29;
+};
+alphalenisgraveiotasub.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphalenisgraveiotasub.sc.ss05 = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphalenisiotasub = {
+quoteright = -29;
+};
+alphalenisiotasub.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphalenisiotasub.sc.ss05 = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphalenistilde = {
+quoteright = -29;
+};
+alphalenistilde.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphalenistildeiotasub = {
+quoteright = -29;
+};
+alphalenistildeiotasub.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphalenistildeiotasub.sc.ss05 = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphatilde = {
+quoteright = -29;
+};
+alphatilde.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphatildeiotasub = {
+quoteright = -29;
+};
+alphatildeiotasub.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphatildeiotasub.sc.ss05 = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphatonos.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+alphawithmacron = {
+quoteright = -29;
+};
+alphawithmacron.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+amacron = {
+quoteright = -29;
+};
+amacron.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+aogonek = {
+quoteright = -29;
+};
+aogonek.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+aring = {
+quoteright = -29;
+};
+aring.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+aringacute = {
+quoteright = -29;
+};
+aringacute.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+asterisk = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+at = {
+Yatcyr = -19;
+};
+atilde = {
+quoteright = -29;
+};
+atilde.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+b = {
+quoteright = -19;
+x = -14;
+};
+becyr = {
+quoteright = -19;
+x = -14;
+};
+becyr.loclSRB = {
+quoteright = -19;
+x = -14;
+};
+bracketleft = {
+Decyr = 30;
+Elcyr = 30;
+Ljecyr = 30;
+};
+brevecomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+brevecomb.case = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+brevecomb_acutecomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+brevecomb_gravecomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+bullet = {
+space = -19;
+};
+caroncomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+caroncomb.alt = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+caroncomb.case = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+cedillacomb = {
+space = -19;
+};
+checyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+chedieresiscyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+chekhakascyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+chetailcyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+chetailcyr.sc = {
+bracketright = 30;
+colon = 40;
+parenright = 40;
+semicolon = 40;
+};
+chevertcyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+circumflexcomb_acutecomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+circumflexcomb_gravecomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+comma = {
+space = -19;
+};
+copyright = {
+Yatcyr = -19;
+};
+d.sc = {
+Yatcyr = -19;
+};
+dcaron.sc = {
+Yatcyr = -19;
+};
+dcroat.sc = {
+Yatcyr = -19;
+};
+ddotbelow.sc = {
+Yatcyr = -19;
+};
+decyr = {
+"@MMK_R_hbar" = -30;
+};
+degree = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+delta = {
+quoteright = -19;
+x = -14;
+};
+delta.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+dieresiscomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+dieresiscomb.i = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+dieresiscomb_acutecomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+dieresiscomb_acutecomb.case = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+dieresiscomb_caroncomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+dieresiscomb_gravecomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+dieresiscomb_gravecomb.case = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+dieresiscomb_macroncomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+dlinebelow.sc = {
+Yatcyr = -19;
+};
+dzhecyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+efcyr = {
+quoteright = -19;
+x = -14;
+};
+elcyr = {
+"@MMK_R_hbar" = -30;
+};
+ellipsis = {
+space = -19;
+};
+emcyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+emdash = {
+space = -19;
+};
+encyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+endash = {
+space = -19;
+};
+ensharptailcyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+ensharptailcyr.sc = {
+bracketright = 30;
+colon = 40;
+parenright = 40;
+semicolon = 40;
+};
+entailcyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+entailcyr.sc = {
+bracketright = 30;
+colon = 40;
+parenright = 40;
+semicolon = 40;
+};
+ercyr = {
+quoteright = -19;
+x = -14;
+};
+ereversedcyr = {
+quoteright = -19;
+x = -14;
+};
+ereversedcyr.sc = {
+Yatcyr = -19;
+};
+estimated = {
+Yatcyr = -19;
+};
+eta = {
+quoteright = -29;
+};
+etaacute = {
+quoteright = -29;
+};
+etaacuteiotasub = {
+quoteright = -29;
+};
+etaasper = {
+quoteright = -29;
+};
+etaasperacute = {
+quoteright = -29;
+};
+etaasperacuteiotasub = {
+quoteright = -29;
+};
+etaaspergrave = {
+quoteright = -29;
+};
+etaaspergraveiotasub = {
+quoteright = -29;
+};
+etaasperiotasub = {
+quoteright = -29;
+};
+etaaspertilde = {
+quoteright = -29;
+};
+etaaspertildeiotasub = {
+quoteright = -29;
+};
+etagrave = {
+quoteright = -29;
+};
+etagraveiotasub = {
+quoteright = -29;
+};
+etaiotasub = {
+quoteright = -29;
+};
+etalenis = {
+quoteright = -29;
+};
+etalenisacute = {
+quoteright = -29;
+};
+etalenisacuteiotasub = {
+quoteright = -29;
+};
+etalenisgrave = {
+quoteright = -29;
+};
+etalenisgraveiotasub = {
+quoteright = -29;
+};
+etalenisiotasub = {
+quoteright = -29;
+};
+etalenistilde = {
+quoteright = -29;
+};
+etalenistildeiotasub = {
+quoteright = -29;
+};
+etatilde = {
+quoteright = -29;
+};
+etatildeiotasub = {
+quoteright = -29;
+};
+etatonos = {
+quoteright = -29;
+};
+eth.sc = {
+Yatcyr = -19;
+};
+exclamdown = {
+Upsilon = -48;
+Upsilonacute = -48;
+Upsilonasper = -48;
+Upsilonasperacute = -48;
+Upsilonaspergrave = -48;
+Upsilonaspertilde = -48;
+Upsilonbreve = -48;
+Upsilondieresis = -48;
+Upsilongrave = -48;
+Upsilonwithmacron = -48;
+Ustraightcyr = -48;
+Ustraightstrokecyr = -48;
+Y = -48;
+Yacute = -48;
+Ycircumflex = -48;
+Ydieresis = -48;
+Ydotbelow = -48;
+Ygrave = -48;
+Yhoi = -48;
+Ytilde = -48;
+uacutedblcyr.sc = -48;
+udieresiscyr.sc = -48;
+umacroncyr.sc = -48;
+upsilon.sc = -48;
+upsilonacute.sc = -48;
+upsilonasper.sc = -48;
+upsilonasperacute.sc = -48;
+upsilonaspergrave.sc = -48;
+upsilonaspertilde.sc = -48;
+upsilonbreve.sc = -48;
+upsilondieresis.sc = -48;
+upsilondieresisacute.sc = -48;
+upsilondieresisgrave.sc = -48;
+upsilondieresistilde.sc = -48;
+upsilondieresistonos.sc = -48;
+upsilongrave.sc = -48;
+upsilonlenis.sc = -48;
+upsilonlenisacute.sc = -48;
+upsilonlenisgrave.sc = -48;
+upsilonlenistilde.sc = -48;
+upsilontilde.sc = -48;
+upsilontonos.sc = -48;
+upsilonwithmacron.sc = -48;
+ushortcyr.sc = -48;
+y.sc = -48;
+yacute.sc = -48;
+ycircumflex.sc = -48;
+ydieresis.sc = -48;
+ydot.sc = -48;
+ydotbelow.sc = -48;
+ygrave.sc = -48;
+yhoi.sc = -48;
+ymacron.sc = -48;
+ytilde.sc = -48;
+};
+f = {
+"@MMK_R_A2" = -10;
+"@MMK_R_B2" = 38;
+"@MMK_R_C2" = 29;
+"@MMK_R_J" = 76;
+"@MMK_R_S2" = 38;
+"@MMK_R_T2" = 76;
+"@MMK_R_U2" = 76;
+"@MMK_R_V2" = 76;
+"@MMK_R_X" = 76;
+"@MMK_R_Y2" = 76;
+"@MMK_R_Z2" = 67;
+"@MMK_R_comma2" = -29;
+"@MMK_R_tilde2" = 124;
+"@MMK_R_v2" = 29;
+"@MMK_R_yacute2" = 38;
+exclam = 95;
+question = 95;
+};
+firstofchinese = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+fitacyr = {
+quoteright = -19;
+x = -14;
+};
+gamma.sc = {
+Decyr = -73;
+colon = -80;
+semicolon = -80;
+};
+gecyr = {
+quoteright = -19;
+x = -14;
+};
+gehookcyr = {
+"@MMK_R_hbar" = -20;
+};
+gestrokecyr = {
+quoteright = -19;
+x = -14;
+};
+getailcyr = {
+quoteright = -19;
+x = -14;
+};
+getailcyr.sc = {
+Decyr = -73;
+colon = -80;
+semicolon = -80;
+};
+gjecyr = {
+quoteright = -19;
+x = -14;
+};
+gjecyr.loclMKD = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+gjecyr.sc = {
+Decyr = -73;
+colon = -80;
+semicolon = -80;
+};
+h = {
+quoteright = -29;
+};
+hardcyr = {
+x = -20;
+};
+hbar = {
+quoteright = -29;
+};
+hcircumflex = {
+quoteright = -29;
+};
+hookabovecomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+hungarumlautcomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+hungarumlautcomb.case = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+hyphen = {
+space = -19;
+};
+icyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+idieresiscyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+igravecyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+imacroncyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iota = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotaacute = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotaadscript = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotaasper = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotaasperacute = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotaaspergrave = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotaaspertilde = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotabreve = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotadieresisacute = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotadieresisgrave = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotadieresistilde = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotagrave = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotalenis = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotalenisacute = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotalenisgrave = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotalenistilde = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotatilde = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+iotawithmacron = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+ishortcyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+kappa.sups = {
+"@MMK_R_xi.sups2" = -10;
+Tau.sups = -43;
+Upsilon.sups = -43;
+};
+lambda.sc = {
+Tshecyr = -43;
+Yatcyr = -37;
+};
+ljecyr = {
+x = -20;
+};
+m = {
+quoteright = -29;
+};
+macroncomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+macroncomb.i = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+minute = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+mu = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+n = {
+quoteright = -29;
+};
+nacute = {
+quoteright = -29;
+};
+ncaron = {
+quoteright = -29;
+};
+ncommaaccent = {
+quoteright = -29;
+};
+njecyr = {
+x = -20;
+};
+ntilde = {
+quoteright = -29;
+};
+o = {
+quoteright = -19;
+x = -14;
+};
+o.sc = {
+Yatcyr = -19;
+};
+oacute = {
+quoteright = -19;
+x = -14;
+};
+oacute.sc = {
+Yatcyr = -19;
+};
+obarcyr = {
+quoteright = -19;
+x = -14;
+};
+obarcyr.sc = {
+Yatcyr = -19;
+};
+obreve = {
+quoteright = -19;
+x = -14;
+};
+obreve.sc = {
+Yatcyr = -19;
+};
+ocaron = {
+quoteright = -19;
+x = -14;
+};
+ocaron.sc = {
+Yatcyr = -19;
+};
+ocircumflex = {
+quoteright = -19;
+x = -14;
+};
+ocircumflex.sc = {
+Yatcyr = -19;
+};
+ocircumflexacute = {
+quoteright = -19;
+x = -14;
+};
+ocircumflexacute.sc = {
+Yatcyr = -19;
+};
+ocircumflexdotbelow = {
+quoteright = -19;
+x = -14;
+};
+ocircumflexdotbelow.sc = {
+Yatcyr = -19;
+};
+ocircumflexgrave = {
+quoteright = -19;
+x = -14;
+};
+ocircumflexgrave.sc = {
+Yatcyr = -19;
+};
+ocircumflexhoi = {
+quoteright = -19;
+x = -14;
+};
+ocircumflexhoi.sc = {
+Yatcyr = -19;
+};
+ocircumflextilde = {
+quoteright = -19;
+x = -14;
+};
+ocircumflextilde.sc = {
+Yatcyr = -19;
+};
+ocyr = {
+quoteright = -19;
+x = -14;
+};
+ocyr.sc = {
+Yatcyr = -19;
+};
+odblgrave.sc = {
+Yatcyr = -19;
+};
+odieresis = {
+quoteright = -19;
+x = -14;
+};
+odieresis.sc = {
+Yatcyr = -19;
+};
+odieresiscyr = {
+quoteright = -19;
+x = -14;
+};
+odieresiscyr.sc = {
+Yatcyr = -19;
+};
+odieresismacron.sc = {
+Yatcyr = -19;
+};
+odotaccentmacron.sc = {
+Yatcyr = -19;
+};
+odotbelow = {
+quoteright = -19;
+x = -14;
+};
+odotbelow.sc = {
+Yatcyr = -19;
+};
+ogonekcomb = {
+space = -19;
+};
+ograve = {
+quoteright = -19;
+x = -14;
+};
+ograve.sc = {
+Yatcyr = -19;
+};
+ohoi = {
+quoteright = -19;
+x = -14;
+};
+ohoi.sc = {
+Yatcyr = -19;
+};
+ohorn = {
+quoteright = -19;
+x = -14;
+};
+ohornacute = {
+quoteright = -19;
+x = -14;
+};
+ohornacute.sc = {
+Yatcyr = -19;
+};
+ohorndotbelow = {
+quoteright = -19;
+x = -14;
+};
+ohorndotbelow.sc = {
+Yatcyr = -19;
+};
+ohorngrave.sc = {
+Yatcyr = -19;
+};
+ohornhoi = {
+quoteright = -19;
+x = -14;
+};
+ohornhoi.sc = {
+Yatcyr = -19;
+};
+ohorntilde = {
+quoteright = -19;
+x = -14;
+};
+ohorntilde.sc = {
+Yatcyr = -19;
+};
+ohungarumlaut = {
+quoteright = -19;
+x = -14;
+};
+ohungarumlaut.sc = {
+Yatcyr = -19;
+};
+oinvertedbreve.sc = {
+Yatcyr = -19;
+};
+omacron = {
+quoteright = -19;
+x = -14;
+};
+omacron.sc = {
+Yatcyr = -19;
+};
+omacronacute.sc = {
+Yatcyr = -19;
+};
+omacrongrave.sc = {
+Yatcyr = -19;
+};
+omicron = {
+quoteright = -19;
+x = -14;
+};
+omicron.sc = {
+Yatcyr = -19;
+};
+omicronacute = {
+quoteright = -19;
+x = -14;
+};
+omicronacute.sc = {
+Yatcyr = -19;
+};
+omicronasper = {
+quoteright = -19;
+x = -14;
+};
+omicronasper.sc = {
+Yatcyr = -19;
+};
+omicronasperacute = {
+quoteright = -19;
+x = -14;
+};
+omicronasperacute.sc = {
+Yatcyr = -19;
+};
+omicronaspergrave = {
+quoteright = -19;
+x = -14;
+};
+omicronaspergrave.sc = {
+Yatcyr = -19;
+};
+omicrongrave = {
+quoteright = -19;
+x = -14;
+};
+omicrongrave.sc = {
+Yatcyr = -19;
+};
+omicronlenis = {
+quoteright = -19;
+x = -14;
+};
+omicronlenis.sc = {
+Yatcyr = -19;
+};
+omicronlenisacute = {
+quoteright = -19;
+x = -14;
+};
+omicronlenisacute.sc = {
+Yatcyr = -19;
+};
+omicronlenisgrave = {
+quoteright = -19;
+x = -14;
+};
+omicronlenisgrave.sc = {
+Yatcyr = -19;
+};
+omicrontonos = {
+quoteright = -19;
+x = -14;
+};
+omicrontonos.sc = {
+Yatcyr = -19;
+};
+onedotenleader = {
+space = -19;
+};
+oogonek = {
+quoteright = -19;
+x = -14;
+};
+oogonek.sc = {
+Yatcyr = -19;
+};
+oslash = {
+quoteright = -19;
+x = -14;
+};
+oslash.sc = {
+Yatcyr = -19;
+};
+oslashacute = {
+quoteright = -19;
+x = -14;
+};
+oslashacute.BRACKET = {
+quoteright = -19;
+x = -14;
+};
+oslashacute.sc = {
+Yatcyr = -19;
+};
+oslashacute.sc.BRACKET = {
+Yatcyr = -19;
+};
+otilde = {
+quoteright = -19;
+x = -14;
+};
+otilde.sc = {
+Yatcyr = -19;
+};
+otildeacute.sc = {
+Yatcyr = -19;
+};
+otildedieresis.sc = {
+Yatcyr = -19;
+};
+otildemacron.sc = {
+Yatcyr = -19;
+};
+p = {
+quoteright = -19;
+x = -14;
+};
+pecyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+pecyr.loclSRB = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+period = {
+space = -19;
+};
+periodcentered = {
+space = -19;
+};
+petailcyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+phi = {
+quoteright = -19;
+x = -14;
+};
+phi.sc = {
+Yatcyr = -19;
+};
+q.sc = {
+Yatcyr = -19;
+};
+question = {
+Etaasperacuteiotasub.ss05 = 50;
+Etaaspergraveiotasub.ss05 = 50;
+Etaasperiotasub.ss05 = 50;
+Etaaspertildeiotasub.ss05 = 50;
+Etalenisacuteiotasub.ss05 = 50;
+Etalenisgraveiotasub.ss05 = 50;
+Etalenisiotasub.ss05 = 50;
+Etalenistildeiotasub.ss05 = 50;
+Saltillo = 50;
+acutecomb = 50;
+acutecomb.case = 50;
+asterisk = 50;
+brevecomb = 50;
+brevecomb.case = 50;
+brevecomb_acutecomb = 50;
+brevecomb_gravecomb = 50;
+caroncomb = 50;
+caroncomb.alt = 50;
+caroncomb.case = 50;
+circumflexcomb_acutecomb = 50;
+circumflexcomb_gravecomb = 50;
+degree = 50;
+dieresiscomb = 50;
+dieresiscomb.i = 50;
+dieresiscomb_acutecomb = 50;
+dieresiscomb_acutecomb.case = 50;
+dieresiscomb_caroncomb = 50;
+dieresiscomb_gravecomb = 50;
+dieresiscomb_gravecomb.case = 50;
+dieresiscomb_macroncomb = 50;
+firstofchinese = 50;
+hookabovecomb = 50;
+hungarumlautcomb = 50;
+hungarumlautcomb.case = 50;
+macroncomb = 50;
+macroncomb.i = 50;
+minute = 50;
+quotedbl = 50;
+quotedblleft = 50;
+quotedblright = 50;
+quoteleft = 50;
+quoteright = 50;
+quotesingle = 50;
+registered = 50;
+ringcomb = 50;
+second = 50;
+tilde = 50;
+tildecomb = 50;
+tildecomb.i = 50;
+trademark = 50;
+};
+questiondown = {
+Djecyr = -57;
+Hardcyr = -57;
+Kabashkcyr = -57;
+T = -57;
+Tau = -57;
+Tbar = -57;
+Tcaron = -57;
+Tcedilla = -57;
+Tcommaaccent = -57;
+Tecyr = -57;
+Tshecyr = -57;
+Upsilon = -58;
+Upsilonacute = -58;
+Upsilonasper = -58;
+Upsilonasperacute = -58;
+Upsilonaspergrave = -58;
+Upsilonaspertilde = -58;
+Upsilonbreve = -58;
+Upsilondieresis = -58;
+Upsilongrave = -58;
+Upsilonwithmacron = -58;
+Ustraightcyr = -58;
+Ustraightstrokecyr = -58;
+Y = -58;
+Yacute = -58;
+Yatcyr = -57;
+Ycircumflex = -58;
+Ydieresis = -58;
+Ydotbelow = -58;
+Ygrave = -58;
+Yhoi = -58;
+Ytilde = -58;
+t.sc = -57;
+tau.sc = -57;
+tbar.sc = -57;
+tcaron.sc = -57;
+tcedilla.sc = -57;
+tcommaaccent.sc = -57;
+tdieresis.sc = -57;
+tdotbelow.sc = -57;
+tecyr.sc = -57;
+tlinebelow.sc = -57;
+uacutedblcyr.sc = -58;
+udieresiscyr.sc = -58;
+umacroncyr.sc = -58;
+upsilon.sc = -58;
+upsilonacute.sc = -58;
+upsilonasper.sc = -58;
+upsilonasperacute.sc = -58;
+upsilonaspergrave.sc = -58;
+upsilonaspertilde.sc = -58;
+upsilonbreve.sc = -58;
+upsilondieresis.sc = -58;
+upsilondieresisacute.sc = -58;
+upsilondieresisgrave.sc = -58;
+upsilondieresistilde.sc = -58;
+upsilondieresistonos.sc = -58;
+upsilongrave.sc = -58;
+upsilonlenis.sc = -58;
+upsilonlenisacute.sc = -58;
+upsilonlenisgrave.sc = -58;
+upsilonlenistilde.sc = -58;
+upsilontilde.sc = -58;
+upsilontonos.sc = -58;
+upsilonwithmacron.sc = -58;
+ushortcyr.sc = -58;
+y.sc = -58;
+yacute.sc = -58;
+ycircumflex.sc = -58;
+ydieresis.sc = -58;
+ydot.sc = -58;
+ydotbelow.sc = -58;
+ygrave.sc = -58;
+yhoi.sc = -58;
+ymacron.sc = -58;
+ytilde.sc = -58;
+};
+quotedbl = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+quotedblbase = {
+space = -19;
+};
+quotedblleft = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+quotedblright = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+quoteleft = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+quoteright = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+quotesinglbase = {
+space = -19;
+};
+quotesingle = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+registered = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+rho = {
+quoteright = -19;
+x = -14;
+};
+rhoasper = {
+quoteright = -19;
+x = -14;
+};
+rholenis = {
+quoteright = -19;
+x = -14;
+};
+ringcomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+schwa = {
+quoteright = -19;
+x = -14;
+};
+schwa.sc = {
+Yatcyr = -19;
+};
+schwacyr = {
+quoteright = -19;
+x = -14;
+};
+second = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+shacyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+shchacyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+shchacyr.sc = {
+bracketright = 30;
+colon = 40;
+parenright = 40;
+semicolon = 40;
+};
+shhacyr = {
+quoteright = -29;
+};
+softcyr = {
+x = -20;
+};
+softcyr.cond = {
+x = -20;
+};
+softhyphen = {
+space = -19;
+};
+space = {
+Etaasperacuteiotasub.ss05 = -19;
+Etaaspergraveiotasub.ss05 = -19;
+Etaasperiotasub.ss05 = -19;
+Etaaspertildeiotasub.ss05 = -19;
+Etalenisacuteiotasub.ss05 = -19;
+Etalenisgraveiotasub.ss05 = -19;
+Etalenisiotasub.ss05 = -19;
+Etalenistildeiotasub.ss05 = -19;
+Saltillo = -19;
+acutecomb = -19;
+acutecomb.case = -19;
+asterisk = -19;
+brevecomb = -19;
+brevecomb.case = -19;
+brevecomb_acutecomb = -19;
+brevecomb_gravecomb = -19;
+bullet = -19;
+caroncomb = -19;
+caroncomb.alt = -19;
+caroncomb.case = -19;
+cedillacomb = -19;
+circumflexcomb_acutecomb = -19;
+circumflexcomb_gravecomb = -19;
+comma = -19;
+degree = -19;
+dieresiscomb = -19;
+dieresiscomb.i = -19;
+dieresiscomb_acutecomb = -19;
+dieresiscomb_acutecomb.case = -19;
+dieresiscomb_caroncomb = -19;
+dieresiscomb_gravecomb = -19;
+dieresiscomb_gravecomb.case = -19;
+dieresiscomb_macroncomb = -19;
+ellipsis = -19;
+emdash = -19;
+endash = -19;
+firstofchinese = -19;
+hookabovecomb = -19;
+hungarumlautcomb = -19;
+hungarumlautcomb.case = -19;
+hyphen = -19;
+macroncomb = -19;
+macroncomb.i = -19;
+minute = -19;
+ogonekcomb = -19;
+onedotenleader = -19;
+period = -19;
+periodcentered = -19;
+quotedbl = -19;
+quotedblbase = -19;
+quotedblleft = -19;
+quotedblright = -19;
+quoteleft = -19;
+quoteright = -19;
+quotesinglbase = -19;
+quotesingle = -19;
+registered = -19;
+ringcomb = -19;
+second = -19;
+softhyphen = -19;
+tilde = -19;
+tildecomb = -19;
+tildecomb.i = -19;
+trademark = -19;
+twodotenleader = -19;
+underscore = -19;
+};
+t.sc = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+tau.sc = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+tbar.sc = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+tcaron.sc = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+tcedilla.sc = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+tcommaaccent.sc = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+tdieresis.sc = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+tdotbelow.sc = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+tecyr = {
+quoteright = -29;
+};
+tecyr.loclSRB = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+tecyr.sc = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+theta.sc = {
+Yatcyr = -19;
+};
+thorn = {
+quoteright = -19;
+x = -14;
+};
+tilde = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+tildecomb = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+tildecomb.i = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+tlinebelow.sc = {
+Decyr = -80;
+colon = -20;
+semicolon = -20;
+};
+trademark = {
+Decyr = -78;
+questiondown = -50;
+space = -20;
+};
+tsecyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+tshecyr = {
+quoteright = -29;
+};
+twodotenleader = {
+space = -19;
+};
+u = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+uacute = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+ubreve = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+ucaron = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+ucircumflex = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+udieresis = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+udieresisacute = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+udieresiscaron = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+udieresisgrave = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+udieresismacron = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+udotbelow = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+ugrave = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+uhoi = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+uhorn = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+uhornacute = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+uhorndotbelow = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+uhorngrave = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+uhornhoi = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+uhorntilde = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+uhungarumlaut = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+umacron = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+underscore = {
+space = -19;
+};
+uogonek = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+uring = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+utilde = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+v.sc = {
+Decyr = -40;
+};
+yacyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+yatcyr = {
+x = -20;
+};
+ylongcyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+ylongdieresiscyr = {
+Tshecyr = -57;
+Yatcyr = -57;
+};
+yucyr = {
+quoteright = -19;
+x = -14;
+};
+yucyr.sc = {
+Yatcyr = -19;
+};
+};
+"B89B9549-E479-4766-A008-6386452E0029" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -13;
 "@MMK_R_T2" = -52;
@@ -15804,7 +15804,7 @@ key = manufacturers;
 values = (
 {
 language = dflt;
-value = "Juan Pablo del Peral, Huerta Tipografica (font), Cristiano Sobral (main changes)";
+value = "The Lunar Sans Project Authors";
 }
 );
 }
@@ -15812,7 +15812,7 @@ value = "Juan Pablo del Peral, Huerta Tipografica (font), Cristiano Sobral (main
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"789C1080-F92A-44E1-A6A4-F5C9FEE0E400" = {
+"5DF7C2A1-46DB-4C62-B192-BDBF45A08E68" = {
 HV = 20;
 HH = 20;
 OH = 20;
@@ -15820,7 +15820,7 @@ oH = 21;
 nV = 21;
 tH = 20;
 };
-"D5071F36-EBB7-4621-927D-B6E908C39701" = {
+"B89B9549-E479-4766-A008-6386452E0029" = {
 HV = 81;
 HH = 71;
 OH = 71;
@@ -15828,7 +15828,7 @@ oH = 67;
 nV = 76;
 tH = 56;
 };
-"0D940768-C6A2-40E2-A30B-6A5FB82294FF" = {
+"AD20C1EC-521C-4BF7-AAE3-FC850D8A306C" = {
 HV = 191;
 HH = 160;
 OH = 148;
@@ -15839,5 +15839,5 @@ tH = 101;
 };
 };
 versionMajor = 3;
-versionMinor = 9;
+versionMinor = 10;
 }

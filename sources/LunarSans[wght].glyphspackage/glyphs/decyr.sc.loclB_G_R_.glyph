@@ -3,74 +3,7 @@ glyphname = decyr.sc.loclBGR;
 widthMetricsKey = decyr.sc;
 layers = (
 {
-layerId = "A46B84D2-3F3B-420F-808E-C7A8E3FA7F52";
-name = "#instance";
-shapes = (
-{
-closed = 1;
-nodes = (
-(15,-110,l),
-(15,22,l),
-(38,22,l),
-(36,-106,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(15,0,l),
-(15,22,l),
-(117,22,l),
-(118,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(66,0,l),
-(66,22,l),
-(406,22,l),
-(406,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(475,-110,l),
-(474,22,l),
-(496,22,l),
-(496,-106,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(396,0,l),
-(397,22,l),
-(496,22,l),
-(496,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(277,536,l),
-(481,0,l),
-(456,0,l),
-(444,38,l),
-(266,502,l),
-(263,502,l),
-(69,38,l),
-(57,0,l),
-(31,0,l),
-(254,536,l)
-);
-}
-);
-width = 560;
-},
-{
-layerId = "ADA523BB-D1AD-4F16-BE8B-61CA3985D379";
+layerId = "74300188-5931-4A0B-AA80-1EDD38E7716E";
 shapes = (
 {
 closed = 1;
@@ -136,7 +69,7 @@ nodes = (
 width = 696;
 },
 {
-layerId = "2CE1A26D-89B5-4780-808B-2F98B239858A";
+layerId = "C0D12FF6-1CE0-4065-AD49-C58B3A59AC72";
 shapes = (
 {
 closed = 1;
@@ -202,7 +135,7 @@ nodes = (
 width = 604;
 },
 {
-layerId = "F847C371-38AE-4E81-B077-B01D758E3DBC";
+layerId = "B1B3E540-EE6E-4C0D-BD55-477D7903BBD7";
 shapes = (
 {
 closed = 1;
